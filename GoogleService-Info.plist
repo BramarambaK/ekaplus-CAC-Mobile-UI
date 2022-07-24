@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1017102760886-lgqii1g7e3la6m0p69bs5povr971702s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1017102760886-lgqii1g7e3la6m0p69bs5povr971702s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5TkY-I3AI1I42c0nhGHJSsY077tuLf-E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1017102760886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ekaplus.EkaAnalytics.ios</string>
+	<key>PROJECT_ID</key>
+	<string>eka-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eka-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1017102760886:ios:0ccf86696353d2f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://eka-prod.firebaseio.com</string>
+</dict>
+</plist>

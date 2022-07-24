@@ -1,0 +1,523 @@
+
+/* Class = "UILabel"; text = " "; ObjectID = "0IU-NT-p6e"; */
+"0IU-NT-p6e.text" = " ";
+
+/* Class = "UILabel"; text = "Start your free trial"; ObjectID = "17j-n8-gch"; */
+"17j-n8-gch.text" = "Начните свой бесплатный маршрут";
+
+/* Class = "UILabel"; text = "Collection name:"; ObjectID = "1Cl-Xr-zrY"; */
+"1Cl-Xr-zrY.text" = "Название коллекции:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Id-Ym-zP3"; */
+"1Id-Ym-zP3.text" = "Label";
+
+/* Class = "UILabel"; text = "Email* "; ObjectID = "24y-WA-eQ9"; */
+"24y-WA-eQ9.text" = "Эл. адрес* ";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "2BC-50-1Ev"; */
+"2BC-50-1Ev.normalTitle" = "авторизоваться";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "2PP-3G-35g"; */
+"2PP-3G-35g.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UILabel"; text = "Breach limit:"; ObjectID = "2Tf-I8-HgC"; */
+"2Tf-I8-HgC.text" = "Предел нарушения:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "2qV-jk-RPY"; */
+"2qV-jk-RPY.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2vX-FY-Zeh"; */
+"2vX-FY-Zeh.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "33c-Eq-uPC"; */
+"33c-Eq-uPC.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Tf-dV-rMk"; */
+"3Tf-dV-rMk.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "3fW-U9-CVR"; */
+"3fW-U9-CVR.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "3zg-OL-QFN"; */
+"3zg-OL-QFN.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "40Y-5g-z8N"; */
+"40Y-5g-z8N.text" = " ";
+
+/* Class = "UILabel"; text = "Frequency:"; ObjectID = "5cI-d2-Rwn"; */
+"5cI-d2-Rwn.text" = "Частота:";
+
+/* Class = "UILabel"; text = "Measure name:"; ObjectID = "5wb-8x-LGb"; */
+"5wb-8x-LGb.text" = "Название измерения:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "6J9-mV-9fG"; */
+"6J9-mV-9fG.normalTitle" = "Готово";
+
+/* Class = "UIButton"; normalTitle = "(Privacy policy)"; ObjectID = "6LD-2O-fgt"; */
+"6LD-2O-fgt.normalTitle" = "(Политика конфиденциальности)";
+
+/* Class = "UILabel"; text = "Include Thomson Reuters data (free)"; ObjectID = "7Ld-NV-Hep"; */
+"7Ld-NV-Hep.text" = "Включите данные Thomson Reuters (бесплатно)";
+
+/* Class = "UILabel"; text = "Measure name:"; ObjectID = "7T4-CG-XBm"; */
+"7T4-CG-XBm.text" = "Название измерения:";
+
+/* Class = "UIButton"; normalTitle = "Select Operator"; ObjectID = "7fe-wX-7Yv"; */
+"7fe-wX-7Yv.normalTitle" = "Выбрать оператора";
+
+/* Class = "UILabel"; text = "Insight"; ObjectID = "7gP-r3-lpC"; */
+"7gP-r3-lpC.text" = "В поле зрения";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "7x6-4n-4Zo"; */
+"7x6-4n-4Zo.text" = "Положение дел:";
+
+/* Class = "UIButton"; normalTitle = "U"; ObjectID = "8Wl-IM-rOi"; */
+"8Wl-IM-rOi.normalTitle" = "U";
+
+/* Class = "UILabel"; text = "Insight"; ObjectID = "9WC-qT-4Qj"; */
+"9WC-qT-4Qj.text" = "В поле зрения";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AWA-Uf-MXE"; */
+"AWA-Uf-MXE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "AiU-DI-99i"; */
+"AiU-DI-99i.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "Share screenshot"; ObjectID = "ArM-ia-TLG"; */
+"ArM-ia-TLG.text" = "Поделиться скриншотом";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BVv-x5-Qyd"; */
+"BVv-x5-Qyd.text" = "Label";
+
+/* Class = "UILabel"; text = "Policy name:"; ObjectID = "Bcv-8P-EUS"; */
+"Bcv-8P-EUS.text" = "Название политики:";
+
+/* Class = "UITextField"; placeholder = "Lorem@ipsum.com"; ObjectID = "Bdc-mR-EHT"; */
+"Bdc-mR-EHT.placeholder" = "Lorem@ipsum.com";
+
+/* Class = "UILabel"; text = " "; ObjectID = "BnQ-zu-WrH"; */
+"BnQ-zu-WrH.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Del"; ObjectID = "Bok-W9-TXj"; */
+"Bok-W9-TXj.normalTitle" = "Из";
+
+/* Class = "UILabel"; text = "Group name:"; ObjectID = "BvM-NR-zyl"; */
+"BvM-NR-zyl.text" = "Название группы:";
+
+///* Class = "UILabel"; text = "© 2017-2020 Eka Software Solutions Pvt. Ltd. All rights reserved."; ObjectID = "CnF-l8-Tgp"; */
+//"CnF-l8-Tgp.text" = "© 2017-2020 Eka Software Solutions Pvt. Ltd. Все права защищены.";
+
+/* Class = "UILabel"; text = "Domain"; ObjectID = "DMj-Yq-H6g"; */
+"DMj-Yq-H6g.text" = "Домен";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "DVS-Ap-QVO"; */
+"DVS-Ap-QVO.normalTitle" = "Подать заявление";
+
+/* Class = "UILabel"; text = "Actuals:"; ObjectID = "DZz-Y9-eYD"; */
+"DZz-Y9-eYD.text" = "ток:";
+
+/* Class = "UILabel"; text = "Problem in logging in"; ObjectID = "EdG-f5-dRf"; */
+"EdG-f5-dRf.text" = "Проблема при входе в систему";
+
+/* Class = "UILabel"; text = " "; ObjectID = "EqI-ez-OD5"; */
+"EqI-ez-OD5.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F1p-cd-Wnd"; */
+"F1p-cd-Wnd.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "F4U-TE-SFU"; */
+"F4U-TE-SFU.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "Fcy-m1-vJQ"; */
+"Fcy-m1-vJQ.normalTitle" = "Очистить все";
+
+/* Class = "UITextField"; placeholder = " First name"; ObjectID = "G77-mr-ce9"; */
+"G77-mr-ce9.placeholder" = " Имя";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GAC-td-LV9"; */
+"GAC-td-LV9.text" = "Label";
+
+/* Class = "UISegmentedControl"; Gw6-hA-qu3.segmentTitles[0] = "Basic"; ObjectID = "Gw6-hA-qu3"; */
+"Gw6-hA-qu3.segmentTitles[0]" = "основной";
+
+/* Class = "UISegmentedControl"; Gw6-hA-qu3.segmentTitles[1] = "Advanced"; ObjectID = "Gw6-hA-qu3"; */
+"Gw6-hA-qu3.segmentTitles[1]" = "продвинутый";
+
+/* Class = "UILabel"; text = "Need Help?"; ObjectID = "HAi-XQ-kVf"; */
+"HAi-XQ-kVf.text" = "Нужна помощь?";
+
+/* Class = "UIButton"; normalTitle = "Functionality"; ObjectID = "HND-5g-WuH"; */
+"HND-5g-WuH.normalTitle" = "функциональность";
+
+/* Class = "UILabel"; text = "Breach limit:"; ObjectID = "Hnz-Xj-Th9"; */
+"Hnz-Xj-Th9.text" = "Предел нарушения:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "IK5-UI-5hU"; */
+"IK5-UI-5hU.text" = " ";
+
+/* Class = "UITextField"; placeholder = " First name"; ObjectID = "IdM-H0-mPg"; */
+"IdM-H0-mPg.placeholder" = " Имя";
+
+/* Class = "UILabel"; text = "Entity name:"; ObjectID = "IjZ-GF-bZ3"; */
+"IjZ-GF-bZ3.text" = "Имя сущности:";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "Ip3-or-L9N"; */
+"Ip3-or-L9N.normalTitle" = "Отправить сообщение";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "JLb-kv-tAG"; */
+"JLb-kv-tAG.text" = "Выбрать";
+
+/* Class = "UILabel"; text = "Sort by"; ObjectID = "K4d-DS-Jpk"; */
+"K4d-DS-Jpk.text" = "Сортировать по";
+
+/* Class = "UILabel"; text = "Value type:"; ObjectID = "KBM-2z-YWH"; */
+"KBM-2z-YWH.text" = "Тип значения:";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "KMh-ww-Mci"; */
+"KMh-ww-Mci.title" = "Отмена";
+
+/* Class = "UIButton"; normalTitle = "Data Integration"; ObjectID = "KnX-Mx-elr"; */
+"KnX-Mx-elr.normalTitle" = "Интеграция данных";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Ksa-OV-ObD"; */
+"Ksa-OV-ObD.text" = "пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kse-OV-HBC"; */
+"Kse-OV-HBC.text" = "Label";
+
+/* Class = "UILabel"; text = "Limit type:"; ObjectID = "Kxb-Lr-hLt"; */
+"Kxb-Lr-hLt.text" = "Тип ограничения:";
+
+/* Class = "UILabel"; text = "Collection name:"; ObjectID = "Kzb-Cd-mpU"; */
+"Kzb-Cd-mpU.text" = "Название коллекции:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "L0w-gg-dgV"; */
+"L0w-gg-dgV.normalTitle" = "Сохранить";
+
+/* Class = "UIButton"; normalTitle = "AND"; ObjectID = "LIr-jw-gUR"; */
+"LIr-jw-gUR.normalTitle" = "А ТАКЖЕ";
+
+/* Class = "UIButton"; normalTitle = "Remove all"; ObjectID = "LZr-hn-2IQ"; */
+"LZr-hn-2IQ.normalTitle" = "Убрать все";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "Lkc-uw-IxN"; */
+"Lkc-uw-IxN.text" = "категория";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N0d-6E-A94"; */
+"N0d-6E-A94.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "N5g-V1-kpO"; */
+"N5g-V1-kpO.normalTitle" = "Подать заявление";
+
+/* Class = "UILabel"; text = "Threshold limit:"; ObjectID = "Nx4-tQ-r6H"; */
+"Nx4-tQ-r6H.text" = "Предел порога:";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "OBX-ge-18K"; */
+"OBX-ge-18K.normalTitle" = "Поделиться";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PCo-e2-ZhK"; */
+"PCo-e2-ZhK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "PLg-cY-afb"; */
+"PLg-cY-afb.normalTitle" = "Пропускать";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Pgu-qq-pEv"; */
+"Pgu-qq-pEv.text" = " ";
+
+/* Class = "UITextField"; placeholder = " Last name"; ObjectID = "Pts-7s-bVR"; */
+"Pts-7s-bVR.placeholder" = " Фамилия";
+
+/* Class = "UILabel"; text = "What am I seeing?"; ObjectID = "Pwk-1B-tVa"; */
+"Pwk-1B-tVa.text" = "Что я вижу?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q0s-Bh-2qY"; */
+"Q0s-Bh-2qY.text" = "Label";
+
+/* Class = "UILabel"; text = "Operator"; ObjectID = "Qd3-Os-iG4"; */
+"Qd3-Os-iG4.text" = "оператор";
+
+/* Class = "UILabel"; text = "Limit type:"; ObjectID = "Qjn-0w-rfS"; */
+"Qjn-0w-rfS.text" = "Тип ограничения:";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "T4a-da-t19"; */
+"T4a-da-t19.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "TWd-ik-QMb"; */
+"TWd-ik-QMb.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Run date:"; ObjectID = "TXU-S8-55W"; */
+"TXU-S8-55W.text" = "Дата выполнения:";
+
+/* Class = "UIButton"; normalTitle = "Problem in logging in?"; ObjectID = "Uws-0H-iRa"; */
+"Uws-0H-iRa.normalTitle" = "Проблема при входе в систему?";
+
+/* Class = "UILabel"; text = "When:"; ObjectID = "VHG-8h-p6O"; */
+"VHG-8h-p6O.text" = "когда:";
+
+/* Class = "UILabel"; text = "Value type:"; ObjectID = "VII-NB-dc1"; */
+"VII-NB-dc1.text" = "Тип значения:";
+
+/* Class = "UILabel"; text = "/"; ObjectID = "VUe-In-NO6"; */
+"VUe-In-NO6.text" = "/";
+
+/* Class = "UILabel"; text = "Channel:"; ObjectID = "VyN-Jw-okb"; */
+"VyN-Jw-okb.text" = "канал:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "WTb-3H-o7Z"; */
+"WTb-3H-o7Z.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "OR"; ObjectID = "WVn-ol-Kmm"; */
+"WVn-ol-Kmm.normalTitle" = "ИЛИ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Wso-GD-qJZ"; */
+"Wso-GD-qJZ.text" = " ";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "X6M-rO-fCT"; */
+"X6M-rO-fCT.text" = "О нас";
+
+/* Class = "UIButton"; normalTitle = "UserName"; ObjectID = "X6t-uk-243"; */
+"X6t-uk-243.normalTitle" = "имя пользователя";
+
+/* Class = "UILabel"; text = " "; ObjectID = "XkY-Jb-iRT"; */
+"XkY-Jb-iRT.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "YL0-Ja-Ycj"; */
+"YL0-Ja-Ycj.text" = " ";
+
+/* Class = "UILabel"; text = "Company Name"; ObjectID = "Yga-A7-RVB"; */
+"Yga-A7-RVB.text" = "название компании";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Ykt-PD-kAa"; */
+"Ykt-PD-kAa.normalTitle" = "Сброс";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "Yo7-pP-G02"; */
+"Yo7-pP-G02.text" = "Подтвердите Пароль";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ZeS-qp-5GW"; */
+"ZeS-qp-5GW.normalTitle" = "Отправить";
+
+/* Class = "UIButton"; normalTitle = "(Privacy policy)"; ObjectID = "ZwU-O4-lVf"; */
+"ZwU-O4-lVf.normalTitle" = "(Политика конфиденциальности)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "abo-Gd-WQf"; */
+"abo-Gd-WQf.text" = "Label";
+
+/* Class = "UILabel"; text = "Run date:"; ObjectID = "bnK-oW-GBE"; */
+"bnK-oW-GBE.text" = "Дата выполнения:";
+
+/* Class = "UIButton"; normalTitle = "Others"; ObjectID = "cU7-sD-42a"; */
+"cU7-sD-42a.normalTitle" = "другие";
+
+/* Class = "UILabel"; text = "Email* "; ObjectID = "cdJ-er-0wT"; */
+"cdJ-er-0wT.text" = "Эл. адрес* ";
+
+/* Class = "UIButton"; normalTitle = "Permissions"; ObjectID = "dBc-DN-GgK"; */
+"dBc-DN-GgK.normalTitle" = "права доступа";
+
+/* Class = "UILabel"; text = "Sign in with your credentials"; ObjectID = "dMj-nl-nsm"; */
+"dMj-nl-nsm.text" = "Войдите с учетными данными";
+
+/* Class = "UIButton"; normalTitle = "Select Operator"; ObjectID = "diU-80-GHs"; */
+"diU-80-GHs.normalTitle" = "Выбрать оператора";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "dyy-mm-zuV"; */
+"dyy-mm-zuV.text" = "Номер телефона";
+
+/* Class = "UILabel"; text = "Dataset"; ObjectID = "e1N-RN-p5M"; */
+"e1N-RN-p5M.text" = "Dataset";
+
+/* Class = "UILabel"; text = "Limit type:"; ObjectID = "e46-WH-H7A"; */
+"e46-WH-H7A.text" = "Тип ограничения:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "e8J-Jh-1ue"; */
+"e8J-Jh-1ue.text" = " ";
+
+/* Class = "UILabel"; text = "Policy name:"; ObjectID = "egy-ov-NWM"; */
+"egy-ov-NWM.text" = "Название политики:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "elQ-yf-lDY"; */
+"elQ-yf-lDY.text" = " ";
+
+/* Class = "UILabel"; text = "Insights"; ObjectID = "fCX-At-3xH"; */
+"fCX-At-3xH.text" = "понимание";
+
+/* Class = "UILabel"; text = "Insight"; ObjectID = "fQ8-oN-7SH"; */
+"fQ8-oN-7SH.text" = "в поле зрения";
+
+/* Class = "UILabel"; text = "Measure name:"; ObjectID = "ffe-cf-atk"; */
+"ffe-cf-atk.text" = "Название измерения:";
+
+/* Class = "UILabel"; text = "Problem in logging in"; ObjectID = "fuY-Hz-E8L"; */
+"fuY-Hz-E8L.text" = "Проблема при входе в систему";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "g2x-7j-u1M"; */
+"g2x-7j-u1M.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "gDU-kb-Ft9"; */
+"gDU-kb-Ft9.text" = "новый пароль";
+
+/* Class = "UILabel"; text = "Select slicer value"; ObjectID = "gLA-qU-nad"; */
+"gLA-qU-nad.text" = "Выберите значение slicer";
+
+/* Class = "UILabel"; text = "Corporate Email id "; ObjectID = "gU8-qp-L68"; */
+"gU8-qp-L68.text" = "Корпоративный идентификатор электронной почты ";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account?"; ObjectID = "gqS-t7-T26"; */
+"gqS-t7-T26.normalTitle" = "У вас нет учетной записи?";
+
+/* Class = "UILabel"; text = " "; ObjectID = "hOW-Ow-c77"; */
+"hOW-Ow-c77.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "hUE-db-4Tx"; */
+"hUE-db-4Tx.text" = " ";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "hW7-ia-quP"; */
+"hW7-ia-quP.text" = "Страна";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hYK-zw-RHA"; */
+"hYK-zw-RHA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Remove all"; ObjectID = "hvJ-wi-CYA"; */
+"hvJ-wi-CYA.normalTitle" = "Убрать все";
+
+/* Class = "UILabel"; text = " "; ObjectID = "i4y-a0-jYI"; */
+"i4y-a0-jYI.text" = " ";
+
+/* Class = "UILabel"; text = "Threshold limit:"; ObjectID = "iOf-q9-bQZ"; */
+"iOf-q9-bQZ.text" = "Предел порога:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "iPX-0p-jyp"; */
+"iPX-0p-jyp.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iUC-h4-riU"; */
+"iUC-h4-riU.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Account Setup"; ObjectID = "lVD-RI-AEK"; */
+"lVD-RI-AEK.normalTitle" = "Настройка учетной записи";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mYw-nD-j5b"; */
+"mYw-nD-j5b.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "nCj-4o-hqc"; */
+"nCj-4o-hqc.text" = " ";
+
+/* Class = "UILabel"; text = "Slicer"; ObjectID = "njd-Tu-chs"; */
+"njd-Tu-chs.text" = "Slicer";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "now-wM-h1t"; */
+"now-wM-h1t.title" = "Пункт";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "oSE-YJ-m4q"; */
+"oSE-YJ-m4q.text" = "Стоимость";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "ofI-Xa-Qbb"; */
+"ofI-Xa-Qbb.text" = "категория";
+
+/* Class = "UILabel"; text = "Learn more"; ObjectID = "ooU-qo-Blb"; */
+"ooU-qo-Blb.text" = "Выучить больше";
+
+/* Class = "UIButton"; normalTitle = "Take a trial"; ObjectID = "ovD-5c-2NT"; */
+"ovD-5c-2NT.normalTitle" = "Возьмите тропу";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "p8E-ie-0Po"; */
+"p8E-ie-0Po.text" = "Добро пожаловать в";
+
+/* Class = "UILabel"; text = "Group name:"; ObjectID = "pKa-2P-DQY"; */
+"pKa-2P-DQY.text" = "Название группы:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "q60-BQ-CCm"; */
+"q60-BQ-CCm.normalTitle" = "Отмена";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "qJV-gb-ZCt"; */
+"qJV-gb-ZCt.normalTitle" = "авторизоваться";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "qjm-wE-sub"; */
+"qjm-wE-sub.text" = "текущий пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qkH-EY-yej"; */
+"qkH-EY-yej.text" = "Label";
+
+/* Class = "UITextField"; placeholder = " Last name"; ObjectID = "rAE-zt-EDn"; */
+"rAE-zt-EDn.placeholder" = " Фамилия";
+
+/* Class = "UILabel"; text = "Dimensions"; ObjectID = "rKO-s6-VRV"; */
+"rKO-s6-VRV.text" = "Габаритные размеры";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rXx-dF-ffp"; */
+"rXx-dF-ffp.text" = "Label";
+
+/* Class = "UILabel"; text = "JobTitle/Role*"; ObjectID = "szf-NG-jzx"; */
+"szf-NG-jzx.text" = "JobTitle / Роль *";
+
+/* Class = "UIButton"; normalTitle = "Sign-up for free trail"; ObjectID = "t0p-qH-BmP"; */
+"t0p-qH-BmP.normalTitle" = "Регистрация для бесплатной пробной версии";
+
+/* Class = "UILabel"; text = "Eka"; ObjectID = "tQg-w6-AuM"; */
+"tQg-w6-AuM.text" = "Eka";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "tf2-Rh-CPD"; */
+"tf2-Rh-CPD.normalTitle" = "Обратная связь";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "thl-ne-fl4"; */
+"thl-ne-fl4.text" = "Положение дел:";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "u3h-p2-5xu"; */
+"u3h-p2-5xu.text" = "имя пользователя";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uiA-00-RBw"; */
+"uiA-00-RBw.text" = "Label";
+
+/* Class = "UILabel"; text = "Affected Data Views:"; ObjectID = "vDh-Jk-w8T"; */
+"vDh-Jk-w8T.text" = "Пораженные данные:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vRZ-SN-jgy"; */
+"vRZ-SN-jgy.text" = "Label";
+
+/* Class = "UILabel"; text = "Actuals:"; ObjectID = "vqS-jh-JOF"; */
+"vqS-jh-JOF.text" = "ток:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w96-Xn-0bB"; */
+"w96-Xn-0bB.text" = "Label";
+
+/* Class = "UILabel"; text = "Please share your corporate email id and our technical support will assist you"; ObjectID = "x9m-0C-LdB"; */
+"x9m-0C-LdB.text" = "Пожалуйста, поделитесь своим идентификатором электронной почты, и наша техническая поддержка поможет вам";
+
+/* Class = "UIButton"; normalTitle = "BIDS"; ObjectID = "yFg-1D-2AJ"; */
+//"yFg-1D-2AJ.normalTitle" = "СТАВКИ";
+
+/* Class = "UILabel"; text = "Priority:"; ObjectID = "zCC-C8-Ab8"; */
+"zCC-C8-Ab8.text" = "Приоритет:";
+
+/* Class = "UILabel"; text = "Description*"; ObjectID = "zJE-UO-0O4"; */
+"zJE-UO-0O4.text" = "Описание*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ztc-5g-XxF"; */
+"ztc-5g-XxF.text" = "Label";
+
+/* Class = "UILabel"; text = "Category*"; ObjectID = "zw3-MI-XLE"; */
+"zw3-MI-XLE.text" = "Категория *";
+
+/* Class = "UILabel"; text = "Image Analysis Results"; ObjectID = "f3X-pm-BvF"; */
+"f3X-pm-BvF.text" = "Результаты анализа изображения";
+
+/* Class = "UITextField"; placeholder = "Eg. https://your-organization.ekaplus.com"; ObjectID = "ZoZ-0b-bGr"; */
+"ZoZ-0b-bGr.placeholder" = "Например. https://your-organization.ekaplus.com";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "m9z-ft-ehV"; */
+"m9z-ft-ehV.normalTitle" = "следующий";
+
+/* Class = "UIButton"; normalTitle = "Change Tenant"; ObjectID = "GDb-WS-HMl"; */
+"GDb-WS-HMl.normalTitle" = "Изменить арендатора";
+
+/* Class = "UILabel"; text = "Domain Name"; ObjectID = "9eN-OR-ZSD"; */
+"9eN-OR-ZSD.text" = "Доменное имя";
+
+/* Class = "UILabel"; text = "This is the url you use to log in to Eka platform"; ObjectID = "Wc3-fr-agm"; */
+"Wc3-fr-agm.text" = "Это URL, который вы используете для входа на платформу Eka";
+
+"AZW-0c-4eh.text" = "Сменить пароль"
+"F6M-hM-4MU.text" = "Пожалуйста, введите ваш текущий пароль"
+"S1b-MY-RBr.text" = "Следующий"
+"3nx-3b-JYk.text" = "Сменить пароль"
+"P9P-00-F5X.text" = "Новый пароль"
+"3J7-tg-vhK.text" = "Подтвердить Пароль"

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="cnl-Q8-HpP" customClass="cardTheme2View" customModule="EkaAnalytics" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oaR-18-Imi">
+                    <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                    <subviews>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="vi0-lZ-ebO">
+                            <rect key="frame" x="10" y="10" width="394" height="798"/>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="vi0-lZ-ebO" secondAttribute="trailing" constant="10" id="KCT-M2-35e"/>
+                        <constraint firstAttribute="bottom" secondItem="vi0-lZ-ebO" secondAttribute="bottom" constant="10" id="OqD-Ja-UTf"/>
+                        <constraint firstItem="vi0-lZ-ebO" firstAttribute="leading" secondItem="oaR-18-Imi" secondAttribute="leading" constant="10" id="sua-X7-DYQ"/>
+                        <constraint firstItem="vi0-lZ-ebO" firstAttribute="top" secondItem="oaR-18-Imi" secondAttribute="top" constant="10" id="tAu-2V-aaf"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="MKe-Vq-tod"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="MKe-Vq-tod" firstAttribute="bottom" secondItem="oaR-18-Imi" secondAttribute="bottom" id="4hv-lm-hjE"/>
+                <constraint firstItem="oaR-18-Imi" firstAttribute="leading" secondItem="MKe-Vq-tod" secondAttribute="leading" id="6BP-sv-4VB"/>
+                <constraint firstItem="MKe-Vq-tod" firstAttribute="trailing" secondItem="oaR-18-Imi" secondAttribute="trailing" id="8wz-EP-2AV"/>
+                <constraint firstItem="oaR-18-Imi" firstAttribute="top" secondItem="MKe-Vq-tod" secondAttribute="top" id="hKz-5J-W8N"/>
+            </constraints>
+            <connections>
+                <outlet property="MainStackView" destination="vi0-lZ-ebO" id="5Tv-1G-xl9"/>
+            </connections>
+            <point key="canvasLocation" x="139" y="69"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

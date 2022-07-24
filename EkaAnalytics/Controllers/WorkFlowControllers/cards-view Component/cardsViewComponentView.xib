@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="cardsViewComponentView" customModule="EkaAnalytics" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vVu-nC-noo">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="70"/>
+                    <subviews>
+                        <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="QUv-3p-Inp">
+                            <rect key="frame" x="10" y="10" width="394" height="50"/>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="2" minimumInteritemSpacing="2" id="v9l-fK-K27">
+                                <size key="itemSize" width="128" height="128"/>
+                                <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                            </collectionViewFlowLayout>
+                            <connections>
+                                <outlet property="dataSource" destination="iN0-l3-epB" id="U4l-nB-wjI"/>
+                                <outlet property="delegate" destination="iN0-l3-epB" id="qYs-JQ-qrk"/>
+                            </connections>
+                        </collectionView>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="QUv-3p-Inp" secondAttribute="bottom" constant="10" id="C78-IV-ygL"/>
+                        <constraint firstAttribute="height" constant="70" id="Qcp-WP-2VK"/>
+                        <constraint firstAttribute="trailing" secondItem="QUv-3p-Inp" secondAttribute="trailing" constant="10" id="cAJ-yc-hpR"/>
+                        <constraint firstItem="QUv-3p-Inp" firstAttribute="top" secondItem="vVu-nC-noo" secondAttribute="top" constant="10" id="gh1-sI-CnE"/>
+                        <constraint firstItem="QUv-3p-Inp" firstAttribute="leading" secondItem="vVu-nC-noo" secondAttribute="leading" constant="10" id="v60-UL-cdg"/>
+                    </constraints>
+                </view>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Dox-Ga-23F">
+                    <rect key="frame" x="10" y="70" width="394" height="656"/>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="vVu-nC-noo" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="9LR-El-n4F"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Dox-Ga-23F" secondAttribute="bottom" constant="10" id="BHy-tt-g3N"/>
+                <constraint firstItem="vVu-nC-noo" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="BmB-oA-Yo2"/>
+                <constraint firstAttribute="trailing" secondItem="vVu-nC-noo" secondAttribute="trailing" id="HCa-RJ-cCY"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Dox-Ga-23F" secondAttribute="trailing" constant="10" id="Iib-Lw-a2b"/>
+                <constraint firstItem="Dox-Ga-23F" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="10" id="Nf4-3a-zRc"/>
+                <constraint firstItem="vVu-nC-noo" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Xo9-5G-Lik"/>
+                <constraint firstItem="Dox-Ga-23F" firstAttribute="top" secondItem="vVu-nC-noo" secondAttribute="bottom" id="k1V-cl-VUn"/>
+            </constraints>
+            <connections>
+                <outlet property="cardViewStack" destination="Dox-Ga-23F" id="x3b-sf-mB0"/>
+                <outlet property="collectionViewHeight" destination="Qcp-WP-2VK" id="2jh-OS-E4u"/>
+                <outlet property="tabCollectionView" destination="QUv-3p-Inp" id="95W-Kc-eKV"/>
+            </connections>
+            <point key="canvasLocation" x="-226.08695652173915" y="52.989130434782609"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,47 @@
+
+1. Pre-defined Filters: View Only Information. Filters applied at the collection level while creating the dataview.
+dataViewJson.dataSource.filters[]
+
+2. dataViewJson.visualizations.filters[]
+
+Before applying any filter, the json is as follows:
+
+columnId:"_10"
+columnType:2
+configZone:"values"
+
+After applying advanced filter(s), the json is as follows:
+
+type: "advanced"
+columnId : "_2"
+columnType: 3
+configZone: "axis"
+firstFilter:
+columnId: "_2"
+columnType: 3
+configZone: "axis"
+dateFormat: "yyyy-MM-dd'T'HH:mm:ss"
+
+operator: (Date) "on" / "notOn" / "onOrAfter" / "before" / "isBlank" / "isNotBlank"
+operator: (Number) "lessThan" / "greaterThanOrEqual" / "equal" / "notEqual" / "top" / "bottom"
+
+operator: (String - Basic) "in", type: "basic"
+ (String - Advanced) "contains" / "notContains" / "startsWith" / "notStartsWith" / "equal" / "isBlank" / "isNotBlank" / "notEqual"
+
+value: ["2017-12-12T00:00:00"]
+
+logicalOperator : "and" / "or"
+
+secondFilter:
+columnId: "_2"
+columnType: 3
+configZone: "axis"
+dateFormat: "yyyy-MM-dd'T'HH:mm:ss"
+
+operator: (Date) "on" / "notOn" / "onOrAfter" / "before" / "isBlank" / "isNotBlank"
+operator: (Number) "lessThan" / "greaterThanOrEqual" / "equal" / "notEqual" / "top" / "bottom"
+
+operator: (String - Basic) "in", type: "basic"
+ (String - Advanced) "contains" / "notContains" / "startsWith" / "notStartsWith" / "equal" / "isBlank" / "isNotBlank" / "notEqual"
+
+value: ["2017-12-12T00:00:00"]

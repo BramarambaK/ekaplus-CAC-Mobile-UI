@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" ambiguous="YES" id="4RX-Pz-pF7" customClass="CompositeTabView" customModule="EkaAnalytics" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="waz-w7-3Hl">
+                    <rect key="frame" x="15" y="44" width="384" height="817"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="lf2-mu-bWU"/>
+                    </constraints>
+                    <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="VRg-VH-b9q">
+                        <size key="itemSize" width="128" height="128"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                    <connections>
+                        <outlet property="dataSource" destination="4RX-Pz-pF7" id="CyO-xx-mao"/>
+                        <outlet property="delegate" destination="4RX-Pz-pF7" id="pm3-2q-NXn"/>
+                    </connections>
+                </collectionView>
+                <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Whf-1D-oiV">
+                    <rect key="frame" x="15" y="861" width="384" height="1"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="GSa-ec-QLG"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="uKV-ma-KMa"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Whf-1D-oiV" firstAttribute="leading" secondItem="uKV-ma-KMa" secondAttribute="leading" constant="15" id="0WT-BB-oQs"/>
+                <constraint firstItem="Whf-1D-oiV" firstAttribute="bottom" secondItem="uKV-ma-KMa" secondAttribute="bottom" id="M23-7d-Bq1"/>
+                <constraint firstItem="uKV-ma-KMa" firstAttribute="trailing" secondItem="waz-w7-3Hl" secondAttribute="trailing" constant="15" id="QCx-tD-AMm"/>
+                <constraint firstItem="waz-w7-3Hl" firstAttribute="leading" secondItem="uKV-ma-KMa" secondAttribute="leading" constant="15" id="c5P-Oe-Q82"/>
+                <constraint firstItem="Whf-1D-oiV" firstAttribute="top" secondItem="waz-w7-3Hl" secondAttribute="bottom" id="e2e-ez-0x8"/>
+                <constraint firstItem="waz-w7-3Hl" firstAttribute="top" secondItem="uKV-ma-KMa" secondAttribute="top" id="s2q-ed-173"/>
+                <constraint firstItem="uKV-ma-KMa" firstAttribute="trailing" secondItem="Whf-1D-oiV" secondAttribute="trailing" constant="15" id="svh-he-YX1"/>
+            </constraints>
+            <connections>
+                <outlet property="tabCollectionView" destination="waz-w7-3Hl" id="Pnp-NR-olw"/>
+            </connections>
+            <point key="canvasLocation" x="-23.188405797101453" y="2.6785714285714284"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

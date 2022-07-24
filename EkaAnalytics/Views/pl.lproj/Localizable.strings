@@ -1,0 +1,274 @@
+/*
+ Localizable.strings
+ EkaAnalytics
+ 
+ Created by Nithin on 21/05/18.
+ Copyright © 2018 Eka Software Solutions. All rights reserved.
+ */
+
+/*No MyBids message*/
+//"NoBids" = "Nie masz jeszcze żadnych ofert.";
+"No In-Progress bids." = "Brak ofert w toku.";
+"No accepted/cancelled bids." = "Brak zaakceptowanych / anulowanych ofert";
+"No rejected bids." = "Brak odrzuconych ofert.";
+
+/*No published prices message*/
+"NoPrices" = "Obecnie nie ma opublikowanych cen.";
+
+/*Expiry date prefix*/
+"Expires in" = "Wygasa za";
+"Expires" = "Wygasa";
+
+/*Button title to send*/
+"Send" = "wysłać";
+
+/*Button title to Accept*/
+"Accept" = "Zaakceptować";
+
+/*Alert title*/
+"Success" = "Powodzenie";
+
+/*Alert Ok Button*/
+"Ok" = "Ok";
+
+/*Alert cancel button*/
+"Cancel" = "Anuluj";
+
+/*Option buttons title*/
+"Bid log" = "Dziennik licytacji";
+"Reject this deal" = "Odrzuć tę umowę";
+
+/*Bid successfuly placed alert message*/
+"Bid has been placed successfully" = "Stawka została pomyślnie przesłana";
+
+/*Bid Failed alert message*/
+"Failed to place the bid. Please try again." = "Nie udało się złożyć oferty. Proszę spróbuj ponownie.";
+
+/*Counter price validation message*/
+"Please enter a valid non-zero value." = "Wprowadź prawidłową wartość różną od zera.";
+
+/*Quantity validation message*/
+"Please enter the Quantity." = "Wprowadź ilość.";
+
+/*ShipmentDate validation message*/
+"Please enter the Shipment Date." = "Wprowadź datę wysyłki.";
+
+/*Counter price validation message*/
+"Please enter the price." = "Podaj cenę.";
+"Please enter a valid non-zero counter price." = "Wprowadź prawidłową niezerową cenę licznika.";
+
+/*Alert Title*/
+"Confirmation" = "Potwierdzenie";
+
+/*Confirmation Message*/
+"You're accepting the bid at the price" = "Akceptujesz ofertę po cenie";
+
+"The Deal was accepted by" = "Umowa została zaakceptowana przez";
+"The Deal was rejected by" = "Umowa została odrzucona przez";
+"The Deal was cancelled by" = "Transakcja została anulowana przez";
+"on" = "na";
+"at" = "w";
+
+/*Bid Update message*/
+"Your message has been sent." = "Twoja wiadomość została wysłana.";
+
+/*Bid Status messages*/
+"No Bid Initiated" = "Nie zainicjowano oferty";
+"Pending" = "W oczekiwaniu";
+
+/*Bid log titles*/
+"Published Price" = "Opublikowana cena";
+"Accepted" = "Przyjęty";
+"Rejected" = "Odrzucono";
+"Cancelled" = "Anulowany";
+
+/*Reason for rejection*/
+"Please enter the reason for rejection." = "Podaj przyczynę odrzucenia.";
+
+
+/*Hamburger menu options*/
+"Favourites" = "Ulubione";
+"Apps" = "Aplikacje";
+"About us" = "O nas";
+"Need Help?" = "Potrzebuję pomocy?";
+
+/*Error message on login*/
+"Please enter the credentials" = "Wprowadź dane uwierzytelniające";
+"Either the domain is invalid or service is unavailable. Please try again later." = "Albo domena jest nieważna, albo usługa jest niedostępna. Spróbuj ponownie później.";
+
+/*Filters title*/
+"Filters" = "Filtry";
+"Predefined Filters" = "Predefiniowane filtry";
+"Select operator" = "Wybierz operatora";
+
+/*Slicer title*/
+"Slicer" = "Krajalnica";
+
+/*Settings*/
+"Settings" = "Ustawienia";
+"Change Password" = "Zmień hasło";
+"Logout" = "Wyloguj";
+"Account" =  "Konto";
+
+/*Icon names*/
+"Share" = "Share_pol";
+"Sort" = "Sort_pol";
+"Filter" = "Filter_pol";
+"Legend" = "Legend_pol";
+"Legend_selected" = "Legend_selected_pol";
+
+/*Intro Screen Content*/
+"Discover accurate and actionable insights from your data with Eka's Intelligence Engine" = "Odkryj dokładny i praktyczny wgląd w swoje dane dzięki silnikowi wywiadowczemu Eka";
+"Integrate multiple systems seamlessly across business processes with Eka's Data Connectors" = "Zintegruj wiele systemów w różnych procesach biznesowych dzięki oprogramowaniu Data Connectors firmy Eka" ;
+"Tell your story the way you want to with prebuilt and high-value apps or create your own apps" = "Opowiedz swoją historię tak, jak chcesz, korzystając z gotowych i wartościowych aplikacji lub stwórz własne aplikacje";
+
+
+"Search results" = "Wyniki wyszukiwania";
+"Recently visited" = "Ostatnio odwiedzane";
+"Unable to render chart." = "Nie można renderować wykresu.";
+"No data to display. Please check the underlying collection(s) connection details or filter criteria" = "Brak danych do wyświetlenia. Sprawdź szczegóły dotyczące kolekcji kolekcji lub kryteria filtrowania";
+"Postal Address" = "Adres pocztowy";
+"Farm Address" = "Adres farmy";
+"Personal Details:" = "Dane osobowe:";
+"Addresses:" = "Adresy:";
+"Bank Details:" = "Dane bankowe:";
+"Select slicer value" = "Wybierz wartość fragmentatora";
+"None" = "Żaden";
+"No Insights available." = "Brak dostępnych statystyk.";
+"No data to display." = "Brak danych do wyświetlenia.";
+"No results found" = "Nie znaleziono wyników";
+"Please enter all the fields" = "Proszę wprowadzić wszystkie pola";
+"Successfully changed the password. Please login again" = "Pomyślnie zmieniono hasło. Proszę, zaloguj się ponownie";
+"The existing password doesn't match our records." = "Istniejące hasło nie pasuje do naszych rekordów.";
+"Please enter the current password first" = "Najpierw wprowadź bieżące hasło";
+"The new password and confirm password doesn't match." = "Nowe hasło i hasło potwierdzające nie pasują do siebie.";
+"The new password doesn't conform to our password policy. Please choose a different one." = "Nowe hasło nie jest zgodne z naszą polityką dotyczącą haseł. Wybierz inny.";
+"This is same as the existing password, Please choose a different one." = "To jest to samo, co istniejące hasło. Wybierz inny.";
+
+"Please check your internet connectivity." = "Sprawdź swoją łączność internetową.";
+"There is a technical issue. Please contact us if the issue persists." = "Wystąpił problem techniczny. Jeśli problem nadal występuje, skontaktuj się z nami.";
+"The token has been refreshed" = "Token został odświeżony";
+"The token has been expired. please login again." = "Token wygasł. Proszę, zaloguj się ponownie.";
+"The response is not in a valid json format." = "Odpowiedź nie ma poprawnego formatu json.";
+"Failed with status code" = "Nie powiodło się z kodem statusu";
+"Dataview not supported on mobile currently." = "Dataview nie jest obecnie obsługiwany na urządzeniach mobilnych.";
+"You won't be able to access any notification after logout" = "Po wylogowaniu nie będziesz mieć dostępu do żadnego powiadomienia";
+"No Favourites yet." = "Brak ulubionych.";
+"No Notifications." = "Brak powiadomień.";
+"Slicer Options" = "Opcje Slicer";
+"No Dataviews affected" = "Brak wpływu na dane";
+"Please select a bidder." = "Wybierz licytującego.";
+"Basic Filters are not available for this measure" = "Filtry podstawowe nie są dostępne dla tego środka";
+"Notifications" = "Powiadomienia";
+
+"Less than" = "Mniej niż";
+"Greater than or equal" = "Większe lub równe";
+"Equal" = "Równy";
+"Equals" = "Równa się";
+"Not equal" = "Nie równe";
+"Top" = "Top";
+"Bottom" = "Dolny";
+"On" = "Na";
+"Not on" = "Nie dalej";
+"On or After" = "Włącz lub po";
+"Before" = "Przed";
+"Is blank" = "Jest pusty";
+"Is not blank" = "Nie jest puste";
+"Contains" = "Zawiera";
+"Does not contain" = "Nie zawiera";
+"Starts with" = "Zaczynać z";
+"Does not start with" = "Nie zaczyna się od";
+"Is blank" = "Jest pusty";
+"Is not blank" = "Nie jest puste";
+"in" = "w";
+"Select" = "Wybierz";
+"Change" = "Zmiana";
+"Recently searched" = "Ostatnio wyszukiwane";
+"Showing bids of " = "Wyświetlanie stawek w wysokości ";
+"No Bidder Selected." = "Nie wybrano oferenta.";
+"Search Bidder Name" = "Wyszukaj nazwę licytującego";
+"Incoterm: " = "Incoterm: ";
+"Product" = "Produkt";
+"Incoterm" = "Incoterm";
+"Crop Year" = "Rok zbiorów";
+"Location" = "Lokalizacja";
+"Published Price" = "Opublikowana cena";
+"Quality" = "Jakość";
+"Messenger" = "Posłaniec";
+"Done" = "Gotowe";
+"What am I seeing?" = "Co widzę?";
+"Learn more" = "Ucz się więcej";
+"No Remarks" = "Brak uwag";
+"Search Insights" = "Search Insights";
+"Agent" = "Agent";
+"Permission has been revoked. Please contact admin."="Zezwolenie zostało odwołane. Skontaktuj się z administratorem.";
+"Enable drilling feature"="Włącz funkcję wiercenia";
+"Disable drilling feature" = "Wyłącz funkcję wiercenia";
+"Disable Cascading Filter" = "Wyłącz filtr kaskadowy";
+"Enable Cascading Filter"= "Włącz filtr kaskadowy";
+"Please enter valid Shipment Date." = "Wprowadź prawidłową datę wysyłki.";
+"Balance"="Saldo";
+"Enter Image Name." = "Wprowadź nazwę obrazu.";
+"already exist." = "już istnieje.";
+"Open Gallery" = "Otwórz galerię";
+"Take Photo" = "Zrobić zdjęcie";
+"Warning" = "Ostrzeżenie";
+"You don't have camera." = "Nie masz aparatu.";
+"You don't have perission to access gallery." = "Nie masz uprawnień dostępu do galerii.";
+"No Record Found." = "Nie znaleziona nagrania.";
+"Something went wrong please try again after some time." = "Coś poszło nie tak, spróbuj ponownie za jakiś czas.";
+"Are you sure you want to delete?" = "Czy jesteś pewny że chcesz usunąć?";
+"INVALID IMAGE" =  "NIEPRAWIDŁOWY OBRAZ";
+"Invalid Image" = "Nieprawidłowy obraz";
+"THREATS FOUND" = "ZNALEZIONE ZAGROŻENIA";
+//"The plant appears to be healthy" = "Roślina wydaje się być zdrowa";
+"NO THREATS FOUND" = "NIE ZNALEZIONO ZAGROŻEŃ";
+"The plant is infected with" = "Roślina jest zainfekowana";
+"Thanks for the Feedback." = "Dziękuję za opinię.";
+"Something went wrong! Please try again." =  "Coś poszło nie tak! Proszę spróbuj ponownie.";
+"The image shows very less probability of any infection, for confirmation, take multiple photos from different positions." = "Obraz pokazuje bardzo małe prawdopodobieństwo jakiejkolwiek infekcji, dla potwierdzenia, zrób kilka zdjęć z różnych pozycji.";
+"Do you want to Remove All filter?" = "Czy chcesz usunąć wszystkie filtry?";
+"Do you want to Remove All slicer?" = "Czy chcesz usunąć wszystkie krajalnice?";
+
+"Remaining" = "Pozostały";
+"disease" = "choroba";
+"The plant is healthy" = "Roślina jest zdrowa";
+"Rating" = "Ocena";
+"Please provide your rating." = "Podaj swoją ocenę.";
+" Remarks" = " Uwagi";
+"Rate Now" = "Oceń teraz";
+"Not Available" = "Niedostępne";
+"Unable to submit the rating.Please try again later." = "Nie można przesłać oceny. Spróbuj ponownie później.";
+"Action Filters" = "Filtry akcji";
+"User Name" = "Nazwa Użytkownika";
+"Bid" = "Stawka";
+"Offer" = "Oferta";
+"BID" = "STAWKA";
+"OFFER" = "OFERTA";
+"Modify"="Modyfikować";
+"Delete"="Kasować";
+"Do you want to delete the offer?"="Czy chcesz usunąć ofertę?";
+"New Offer"="Nowa oferta";
+"is successfully published"= "został pomyślnie opublikowany";
+"Bid has been successfully updated." = "Oferta została pomyślnie zaktualizowana.";
+"Failed to update the offer. Please try again." = "Nie udało się zaktualizować oferty. Proszę spróbuj ponownie.";
+"Update"="Aktualizacja";
+"Publish"="Publikować";
+"Latest Offeror Price"="Najnowsza cena oferującego";
+"Latest Bidder Price"="Ostatnia cena oferenta";
+"Bidder"="Oferent";
+"Offer has been successfully updated."="Oferta została pomyślnie zaktualizowana.";
+"Enter all field." = "Wpisz wszystkie pola.";
+"Delivery From Date must be higher than Delivery To date" = "Dostawa od daty musi być wyższa niż dostawa do daty.";
+"Please Enter Valid Delivery period." = "Podaj prawidłowy okres dostawy.";
+"Payment Terms" = "Zasady płatności";
+"Packing Size" = "Wielkość opakowania";
+"Packing Type" = "Rodzaj opakowania";
+"Quantity" = "Ilość";
+"Eka Software Solutions Pvt. Ltd. All rights reserved." = "Eka Software Solutions Pvt. Ltd. Wszelkie prawa zastrzeżone.";
+"User Unauthorized." = "Użytkownik nieautoryzowany.";
+"Please enter the current password." = "Wprowadź aktualne hasło.";
+"Information" = "Informacja";
+"New and Confirm Password are not same." = "Nowe i Potwierdź hasło nie są takie same.";
+"Share" = "Dzielić";
+"No Insights to share." = "Brak statystyk do udostępnienia.";

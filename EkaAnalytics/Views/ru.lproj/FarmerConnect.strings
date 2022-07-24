@@ -1,0 +1,698 @@
+
+/* Class = "UILabel"; text = "USD/MT"; ObjectID = "0Q6-cj-YgB"; */
+"0Q6-cj-YgB.text" = "USD/MT";
+
+/* Class = "UIButton"; normalTitle = "+ Add New"; ObjectID = "0t8-vO-K30"; */
+"0t8-vO-K30.normalTitle" = "+ Добавить новое";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "1fy-Ba-jz7"; */
+"1fy-Ba-jz7.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UILabel"; text = "Remarks:"; ObjectID = "2IC-zH-mgw"; */
+"2IC-zH-mgw.text" = "Примечания:";
+
+/* Class = "UITextField"; placeholder = "Enter counter bid price"; ObjectID = "2JE-j5-XAz"; */
+"2JE-j5-XAz.placeholder" = "Введите цену участия";
+
+/* Class = "UITextField"; placeholder = "Enter counter bid price"; ObjectID = "2M4-Rm-i1n"; */
+"2M4-Rm-i1n.placeholder" = "Введите цену участия";
+
+/* Class = "UILabel"; text = "New Registration"; ObjectID = "2Vy-aL-cfj"; */
+"2Vy-aL-cfj.text" = "Новая регистрация";
+
+/* Class = "UILabel"; text = "Website:"; ObjectID = "2WJ-xO-BTV"; */
+"2WJ-xO-BTV.text" = "Веб-сайт:";
+
+/* Class = "UITextView"; text = " "; ObjectID = "2iM-ru-E2T"; */
+"2iM-ru-E2T.text" = " ";
+
+/* Class = "UILabel"; text = "Quality"; ObjectID = "2iW-yY-A2H"; */
+"2iW-yY-A2H.text" = "Качественный";
+
+/* Class = "UILabel"; text = "Fax"; ObjectID = "2vB-79-wv7"; */
+"2vB-79-wv7.text" = "факс";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "30g-Rf-7m2"; */
+"30g-Rf-7m2.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UILabel"; text = "You are rejecting this deal, once proceeded cannot be reverted."; ObjectID = "3gd-aN-AoY"; */
+"3gd-aN-AoY.text" = "Вы отклоняете эту сделку, после того как вы ее не вернете.";
+
+/* Class = "UILabel"; text = "Account Holder's Name:"; ObjectID = "3vy-ok-BpM"; */
+"3vy-ok-BpM.text" = "Имя владельца счета:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "5Hc-cT-lDm"; */
+"5Hc-cT-lDm.text" = "имя:";
+
+
+/* Class = "UILabel"; text = "Reason for rejection(Mandatory)"; ObjectID = "5rv-sT-wBY"; */
+"5rv-sT-wBY.text" = "Причина отказа (обязательный)";
+
+/* Class = "UILabel"; text = "Counter"; ObjectID = "5ta-sA-nCE"; */
+"5ta-sA-nCE.text" = "счетчик";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "74h-bG-rEc"; */
+"74h-bG-rEc.normalTitle" = "Пропускать";
+
+/* Class = "UILabel"; text = "Currency Name:"; ObjectID = "7GN-eL-PLj"; */
+"7GN-eL-PLj.text" = "Название валюты:";
+
+/* Class = "UILabel"; text = "Grower Number Type*"; ObjectID = "7pl-cg-WG8"; */
+"7pl-cg-WG8.text" = "Тип номера фермера*";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "8Nz-ce-Mw1"; */
+"8Nz-ce-Mw1.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UILabel"; text = "Crop Year:"; ObjectID = "8ra-hj-qOT"; */
+"8ra-hj-qOT.text" = "Год урожая:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "94y-Hg-CpG"; */
+"94y-Hg-CpG.normalTitle" = "Отмена";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "95D-Jb-Gxo"; */
+"95D-Jb-Gxo.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "98A-qX-7vo"; */
+"98A-qX-7vo.text" = "метка";
+
+/* Class = "UILabel"; text = " "; ObjectID = "9cd-Dt-hML"; */
+"9cd-Dt-hML.text" = " ";
+
+/* Class = "UILabel"; text = "Quantity:"; ObjectID = "BGm-Xo-WYM"; */
+"BGm-Xo-WYM.text" = "Количество:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "BjJ-GU-agM"; */
+"BjJ-GU-agM.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CAO-dJ-szC"; */
+"CAO-dJ-szC.text" = "метка";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "CJP-Ih-a3u"; */
+"CJP-Ih-a3u.text" = "мобильный:";
+
+/* Class = "UITextField"; placeholder = " First name"; ObjectID = "D4i-Ym-Yw3"; */
+"D4i-Ym-Yw3.placeholder" = " Имя";
+
+/* Class = "UILabel"; text = " "; ObjectID = "DMR-SC-hWK"; */
+"DMR-SC-hWK.text" = " ";
+
+/* Class = "UILabel"; text = "Set preferences and get immediate relevant bids for your preferred product, quality and location"; ObjectID = "Dhe-LV-iMT"; */
+"Dhe-LV-iMT.text" = "Задайте настройки и получите немедленные соответствующие ставки для вашего предпочтительного продукта, качества и местоположения";
+
+/* Class = "UILabel"; text = "Username* "; ObjectID = "DvC-WS-fbP"; */
+"DvC-WS-fbP.text" = "имя пользователя* ";
+
+/* Class = "UILabel"; text = "Quality"; ObjectID = "E2Y-Sa-3c6"; */
+"E2Y-Sa-3c6.text" = "Качественный";
+
+/* Class = "UISegmentedControl"; EMg-cx-bOr.segmentTitles[0] = "Published Prices"; ObjectID = "EMg-cx-bOr"; */
+"EMg-cx-bOr.segmentTitles[0]" = "Опубликованные цены";
+
+/* Class = "UISegmentedControl"; EMg-cx-bOr.segmentTitles[1] = "Bid"; ObjectID = "EMg-cx-bOr"; */
+"EMg-cx-bOr.segmentTitles[1]" = "предложение";
+
+/* Class = "UILabel"; text = " "; ObjectID = "EUy-ZF-esx"; */
+"EUy-ZF-esx.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Ely-Lx-Pw1"; */
+"Ely-Lx-Pw1.text" = " ";
+
+/* Class = "UILabel"; text = "Bank Address:"; ObjectID = "FJj-rd-9LV"; */
+"FJj-rd-9LV.text" = "Адрес банка:";
+
+/* Class = "UILabel"; text = "State*"; ObjectID = "G3p-4a-M7k"; */
+"G3p-4a-M7k.text" = "состояние*";
+
+/* Class = "UILabel"; text = "Website"; ObjectID = "GJe-8Y-R4b"; */
+"GJe-8Y-R4b.text" = "Веб-сайт";
+
+/* Class = "UILabel"; text = "Ref ID:"; ObjectID = "GQa-Ra-r8X"; */
+"GQa-Ra-r8X.text" = "Веб-сайт:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Gaf-8j-vzD"; */
+"Gaf-8j-vzD.text" = " ";
+
+/* Class = "UILabel"; text = "Zip code*"; ObjectID = "H0h-QG-CP0"; */
+"H0h-QG-CP0.text" = "Почтовый индекс*";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "H1F-dv-Wca"; */
+"H1F-dv-Wca.text" = "Телефон";
+
+/* Class = "UILabel"; text = "Product:"; ObjectID = "HqI-bv-nFZ"; */
+"HqI-bv-nFZ.text" = "Продукт:";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Hww-NT-xHM"; */
+"Hww-NT-xHM.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "IBAN:"; ObjectID = "I1N-tD-m14"; */
+"I1N-tD-m14.text" = "IBAN:";
+
+/* Class = "UILabel"; text = "ABN* "; ObjectID = "IeT-ST-yqa"; */
+"IeT-ST-yqa.text" = "ABN* ";
+
+/* Class = "UILabel"; text = "Rejection Confirmation"; ObjectID = "J75-x9-Kju"; */
+"J75-x9-Kju.text" = "Подтверждение отклонения";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Js5-2u-D2f"; */
+"Js5-2u-D2f.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Kgc-kT-Km9"; */
+"Kgc-kT-Km9.text" = "Место нахождения";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "L1Y-k1-QfZ"; */
+"L1Y-k1-QfZ.text" = "Эл. адрес:";
+
+/* Class = "UILabel"; text = "Mobile*"; ObjectID = "LE5-nF-J9O"; */
+"LE5-nF-J9O.text" = "Mobile*";
+
+/* Class = "UILabel"; text = "Remarks:"; ObjectID = "MO3-hz-pb3"; */
+"MO3-hz-pb3.text" = "замечания:";
+
+/* Class = "UILabel"; text = "Password* "; ObjectID = "MXD-Pp-aPi"; */
+"MXD-Pp-aPi.text" = "пароль* ";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "MlX-w5-W8z"; */
+"MlX-w5-W8z.normalTitle" = "отклонять";
+
+/* Class = "UILabel"; text = "Crop Year"; ObjectID = "Mqb-hR-VqL"; */
+"Mqb-hR-VqL.text" = "Год урожая";
+
+/* Class = "UILabel"; text = " "; ObjectID = "MwP-Pu-RfL"; */
+"MwP-Pu-RfL.text" = " ";
+
+/* Class = "UILabel"; text = "Quality:"; ObjectID = "NL1-QA-OPw"; */
+"NL1-QA-OPw.text" = "Качественный:";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "Nd7-rN-09j"; */
+"Nd7-rN-09j.normalTitle" = "принимать";
+
+/* Class = "UILabel"; text = "I accept all the "; ObjectID = "Nv7-Bo-zPz"; */
+"Nv7-Bo-zPz.text" = "Я принимаю все ";
+
+/* Class = "UILabel"; text = "Counter"; ObjectID = "Och-aO-Sxl"; */
+"Och-aO-Sxl.text" = "счетчик";
+
+/* Class = "UILabel"; text = "Latest Bidder Price:"; ObjectID = "PV6-ai-Scj"; */
+"PV6-ai-Scj.text" = "Последняя цена участника:";
+
+/* Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "Pn5-C0-tUk"; */
+"Pn5-C0-tUk.normalTitle" = "Не сейчас";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "QfL-gg-5SH"; */
+"QfL-gg-5SH.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "S2V-2o-qhP"; */
+"S2V-2o-qhP.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Country* "; ObjectID = "S8U-2I-SLk"; */
+"S8U-2I-SLk.text" = "DonCountrye* ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "SBm-Ll-b27"; */
+"SBm-Ll-b27.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "SJ0-XQ-qGg"; */
+"SJ0-XQ-qGg.normalTitle" = "Отмена";
+
+/* Class = "UITextField"; placeholder = " First name"; ObjectID = "THH-FG-f5f"; */
+"THH-FG-f5f.placeholder" = " Имя";
+
+/* Class = "UILabel"; text = "Account No:"; ObjectID = "UIl-8I-szv"; */
+"UIl-8I-szv.text" = "Нет учетной записи:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Vbt-n9-02h"; */
+"Vbt-n9-02h.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "VqT-fX-3ux"; */
+"VqT-fX-3ux.normalTitle" = "Пропускать";
+
+/* Class = "UILabel"; text = " "; ObjectID = "WqB-yg-b5H"; */
+"WqB-yg-b5H.text" = " ";
+
+/* Class = "UILabel"; text = "Remarks:"; ObjectID = "XSq-ou-osv"; */
+"XSq-ou-osv.text" = "замечания:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Yg0-m6-2c7"; */
+"Yg0-m6-2c7.text" = " ";
+
+/* Class = "UILabel"; text = "User's details"; ObjectID = "Z9A-yu-qFM"; */
+"Z9A-yu-qFM.text" = "Информация о пользователе";
+
+/* Class = "UIButton"; normalTitle = "Set My Preferences"; ObjectID = "ZPQ-4D-auA"; */
+"ZPQ-4D-auA.normalTitle" = "Настройка моих настроек";
+
+/* Class = "UILabel"; text = "Email*"; ObjectID = "ZUc-51-mhW"; */
+"ZUc-51-mhW.text" = "Эл. адрес*";
+
+/* Class = "UILabel"; text = "Product(s)"; ObjectID = "Zck-Cv-vW5"; */
+"Zck-Cv-vW5.text" = "Продукт(s)";
+
+/* Class = "UILabel"; text = "Delivery Period:"; ObjectID = "ZoR-h6-hlj"; */
+"ZoR-h6-hlj.text" = "Период доставки:";
+
+/* Class = "UILabel"; text = "MT"; ObjectID = "aik-IY-Uv4"; */
+"aik-IY-Uv4.text" = "Монтана";
+
+/* Class = "UILabel"; text = " "; ObjectID = "c8K-s8-0k3"; */
+"c8K-s8-0k3.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "cMc-wC-rEh"; */
+"cMc-wC-rEh.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "cVN-kK-mfb"; */
+"cVN-kK-mfb.normalTitle" = "регистр";
+
+/* Class = "UILabel"; text = "Confirm Password*"; ObjectID = "cyu-bj-asj"; */
+"cyu-bj-asj.text" = "Подтвердите Пароль*";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "dgJ-Lj-wxF"; */
+"dgJ-Lj-wxF.text" = "Место нахождения:";
+
+/* Class = "UILabel"; text = "Bid ID:"; ObjectID = "dnB-dS-3OC"; */
+"dnB-dS-3OC.text" = "ID ставки:";
+
+/* Class = "UILabel"; text = "User Profile"; ObjectID = "eON-wS-yzw"; */
+"eON-wS-yzw.text" = "Профиль пользователя";
+
+/* Class = "UILabel"; text = " "; ObjectID = "eTF-Kc-8i1"; */
+"eTF-Kc-8i1.text" = " ";
+
+/* Class = "UILabel"; text = "Zip code*"; ObjectID = "ehr-y4-nSK"; */
+"ehr-y4-nSK.text" = "Почтовый индекс*";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "ewj-eJ-wiG"; */
+"ewj-eJ-wiG.text" = "Место нахождения:";
+
+/* Class = "UILabel"; text = "Farm Address"; ObjectID = "f3l-RP-Qz4"; */
+"f3l-RP-Qz4.text" = "Адрес фермы";
+
+/* Class = "UILabel"; text = "Qualities"; ObjectID = "fKs-jX-G4U"; */
+"fKs-jX-G4U.text" = "Качества";
+
+/* Class = "UILabel"; text = "* All Accepted Bids will be moved to Contracts"; ObjectID = "fTX-Dt-voQ"; */
+"fTX-Dt-voQ.text" = "* Все принятые заявки будут перенесены в Контракты";
+
+/* Class = "UILabel"; text = "161$/MT"; ObjectID = "gOT-Ga-G4k"; */
+"gOT-Ga-G4k.text" = "161$/MT";
+
+/* Class = "UILabel"; text = "Same as postal address"; ObjectID = "gQf-4a-bNN"; */
+"gQf-4a-bNN.text" = "То же, что и почтовый адрес";
+
+/* Class = "UILabel"; text = "Confirm Email*"; ObjectID = "gau-CN-0xZ"; */
+"gau-CN-0xZ.text" = "Подтвердите адрес электронной почты*";
+
+/* Class = "UILabel"; text = " "; ObjectID = "gi9-k9-bem"; */
+"gi9-k9-bem.text" = " ";
+
+/* Class = "UILabel"; text = "Postal Address"; ObjectID = "h2R-1Q-ere"; */
+"h2R-1Q-ere.text" = "Почтовый адрес";
+
+/* Class = "UILabel"; text = "Postal Address:"; ObjectID = "h3g-Vy-k8Z"; */
+"h3g-Vy-k8Z.text" = "Почтовый адрес:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "hmw-Xe-9af"; */
+"hmw-Xe-9af.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "inv-OW-zdc"; */
+"inv-OW-zdc.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "jtY-lo-GMn"; */
+"jtY-lo-GMn.normalTitle" = "следующий";
+
+/* Class = "UILabel"; text = "Product:"; ObjectID = "k63-tu-qvn"; */
+"k63-tu-qvn.text" = "Продукт:";
+
+/* Class = "UITextField"; placeholder = " Last name"; ObjectID = "l1j-kj-NeE"; */
+"l1j-kj-NeE.placeholder" = " Фамилия";
+
+/* Class = "UILabel"; text = "Published Price:"; ObjectID = "lIv-6D-2H6"; */
+"lIv-6D-2H6.text" = "Опубликованная цена:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "lQw-sj-c5r"; */
+"lQw-sj-c5r.text" = " ";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "lWu-pS-zNm"; */
+"lWu-pS-zNm.text" = "Место нахождения";
+
+/* Class = "UILabel"; text = "Location(s)"; ObjectID = "lj8-Ky-Fot"; */
+"lj8-Ky-Fot.text" = "Место нахождения(s)";
+
+/* Class = "UILabel"; text = "Offer ID:"; ObjectID = "mIF-0c-2Vm"; */
+"mIF-0c-2Vm.text" = "Идентификатор предложения:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "n9D-rP-lRw"; */
+"n9D-rP-lRw.text" = " ";
+
+/* Class = "UILabel"; text = "Product(s)"; ObjectID = "nSw-hG-KLq"; */
+"nSw-hG-KLq.text" = "Продукт(s)";
+
+/* Class = "UILabel"; text = "Same as postal address"; ObjectID = "nfy-WC-BXs"; */
+"nfy-WC-BXs.text" = "То же, что и почтовый адрес";
+
+/* Class = "UILabel"; text = "Published Price:"; ObjectID = "ngZ-5t-xad"; */
+"ngZ-5t-xad.text" = "Опубликованная цена:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "onR-Zl-eGs"; */
+"onR-Zl-eGs.text" = " ";
+
+/* Class = "UILabel"; text = "Published Price:"; ObjectID = "qfa-ei-qNh"; */
+"qfa-ei-qNh.text" = "Опубликованная цена:";
+
+/* Class = "UILabel"; text = "New Registration"; ObjectID = "qvI-k2-H2g"; */
+"qvI-k2-H2g.text" = "Новая регистрация";
+
+/* Class = "UILabel"; text = "Crop Year"; ObjectID = "r4h-7Q-YGy"; */
+"r4h-7Q-YGy.text" = "Год урожая";
+
+/* Class = "UILabel"; text = "New Registration"; ObjectID = "rCp-jk-cBg"; */
+"rCp-jk-cBg.text" = "Новая регистрация";
+
+/* Class = "UILabel"; text = "Delivery Period:"; ObjectID = "rRK-EO-nxK"; */
+"rRK-EO-nxK.text" = "Период доставки:";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "rzF-Go-c3T"; */
+"rzF-Go-c3T.normalTitle" = "Условия и положения";
+
+/* Class = "UILabel"; text = " "; ObjectID = "s7m-yo-4iW"; */
+"s7m-yo-4iW.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "sR0-66-PPN"; */
+"sR0-66-PPN.text" = " ";
+
+/* Class = "UILabel"; text = "Location* "; ObjectID = "slx-5D-WKx"; */
+"slx-5D-WKx.text" = "Место нахождения* ";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "smU-lA-hhD"; */
+"smU-lA-hhD.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UILabel"; text = "Quantity:"; ObjectID = "stK-Wh-Zc9"; */
+"stK-Wh-Zc9.text" = "Количество:";
+
+/* Class = "UILabel"; text = "Farm Address"; ObjectID = "t7x-Ft-ErS"; */
+"t7x-Ft-ErS.text" = "Адрес фермы";
+
+/* Class = "UILabel"; text = " "; ObjectID = "tSX-0t-kyA"; */
+"tSX-0t-kyA.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uPd-wN-PJC"; */
+"uPd-wN-PJC.normalTitle" = "Отмена";
+
+/* Class = "UILabel"; text = "Postal Address"; ObjectID = "uiX-qi-Joo"; */
+"uiX-qi-Joo.text" = "Почтовый адрес";
+
+/* Class = "UILabel"; text = "Latest Offeror Price:"; ObjectID = "usP-eZ-ic7"; */
+"usP-eZ-ic7.text" = "Последняя цена предложения:";
+
+/* Class = "UILabel"; text = "Fax:"; ObjectID = "usa-qj-lvZ"; */
+"usa-qj-lvZ.text" = "факс:";
+
+/* Class = "UILabel"; text = "Location* "; ObjectID = "vIW-2x-Lnh"; */
+"vIW-2x-Lnh.text" = "Место нахождения* ";
+
+/* Class = "UILabel"; text = "New Registration"; ObjectID = "vtW-tO-1UU"; */
+"vtW-tO-1UU.text" = "Новая регистрация";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "wJd-7K-9Fe"; */
+"wJd-7K-9Fe.normalTitle" = "Сохранить";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "wSK-j2-lcU"; */
+"wSK-j2-lcU.normalTitle" = "Пропускать";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x1j-bO-lEk"; */
+"x1j-bO-lEk.text" = "метка";
+
+/* Class = "UILabel"; text = " "; ObjectID = "xBD-Yj-1sj"; */
+"xBD-Yj-1sj.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "xdz-gK-oaU"; */
+"xdz-gK-oaU.text" = " ";
+
+/* Class = "UILabel"; text = "USD/MT"; ObjectID = "y72-f7-FRo"; */
+"y72-f7-FRo.text" = "USD/MT";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "y8J-eM-DzT"; */
+"y8J-eM-DzT.normalTitle" = "Отмена";
+
+/* Class = "UITextField"; placeholder = "lorem@ipsum.com"; ObjectID = "yQs-j6-Jpc"; */
+"yQs-j6-Jpc.placeholder" = "lorem@ipsum.com";
+
+/* Class = "UILabel"; text = "Quality:"; ObjectID = "yag-qh-XDp"; */
+"yag-qh-XDp.text" = "Качественный:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "ynx-E5-sAY"; */
+"ynx-E5-sAY.text" = " ";
+
+/* Class = "UILabel"; text = "Crop Year:"; ObjectID = "yxG-BU-veK"; */
+"yxG-BU-veK.text" = "Год урожая:";
+
+/* Class = "UILabel"; text = " "; ObjectID = "yxp-Bw-Hlq"; */
+"yxp-Bw-Hlq.text" = " ";
+
+/* Class = "UILabel"; text = "Zip code*"; ObjectID = "zWW-jw-clm"; */
+"zWW-jw-clm.text" = "Почтовый индекс*";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "3Jd-Ze-PO0"; */
+"3Jd-Ze-PO0.text" = "Телефон:";
+
+/* Class = "UILabel"; text = "Bidder:"; ObjectID = "CWe-iQ-Vhb"; */
+"CWe-iQ-Vhb.text" = "Претендент:";
+
+/* Class = "UILabel"; text = "Bidder List"; ObjectID = "ksz-20-rEm"; */
+"ksz-20-rEm.text" = "Список участников";
+
+/* Class = "UILabel"; text = "Product:"; ObjectID = "ypx-9H-MCD"; */
+"ypx-9H-MCD.text" = "Продукт:";
+
+/* Class = "UILabel"; text = "Quality:"; ObjectID = "jkI-LV-4xo"; */
+"jkI-LV-4xo.text" = "Качественный:";
+
+/* Class = "UILabel"; text = "Crop Year:"; ObjectID = "8dh-og-jCQ"; */
+"8dh-og-jCQ.text" = "Год урожая:";
+
+/* Class = "UILabel"; text = " Location:"; ObjectID = "ece-1f-gBP"; */
+"ece-1f-gBP.text" = "Место нахождения:";
+
+/* Class = "UILabel"; text = "Bid ID:"; ObjectID = "VGL-Za-q6K"; */
+"VGL-Za-q6K.text" = "Идентификатор ставки:";
+
+/* Class = "UILabel"; text = "Ref ID:"; ObjectID = "eEK-Pa-KUA"; */
+"eEK-Pa-KUA.text" = "Код ссылки:";
+
+/* Class = "UILabel"; text = "Bidder Name:"; ObjectID = "bcX-2z-CaA"; */
+"bcX-2z-CaA.text" = "Имя участника:";
+
+/* Class = "UILabel"; text = "Bidder ID:"; ObjectID = "iAG-9x-e22"; */
+"iAG-9x-e22.text" = "Идентификатор участника торгов:";
+
+/* Class = "UILabel"; text = " Quantity:"; ObjectID = "ksz-20-rEm"; */
+"DH3-89-fYM.text" = "Количество:";
+
+/* Class = "UILabel"; text = "Delivery Period:"; ObjectID = "Yof-Ty-zJ0"; */
+"Yof-Ty-zJ0.text" = "Период доставки:";
+
+/* Class = "UILabel"; text = "Remarks:"; ObjectID = "ksz-20-rEm"; */
+"u9n-Pu-wVA.text" = "Примечания:";
+
+/* Class = "UILabel"; text = "Incoterm:"; ObjectID = "zf7-DC-h96"; */
+"zf7-DC-h96.text" = "Инкотермс:";
+
+/* Class = "UILabel"; text = "Incoterm:"; ObjectID = "N0R-Yv-05d"; */
+"N0R-Yv-05d.text" = "Инкотермс:";
+
+/* Class = "UILabel"; text = "Incoterm:"; ObjectID = "8cH-8R-Xe6"; */
+"8cH-8R-Xe6.text" = "Инкотермс:";
+
+/* Class = "UILabel"; text = "Offeror's Name:"; ObjectID = "Oy9-Ms-yvA"; */
+"Oy9-Ms-yvA.text" = "Имя победителя:";
+
+/* Class = "UILabel"; text = "Offeror's Rating:"; ObjectID = "zXv-I1-SLs"; */
+"zXv-I1-SLs.text" = "Рейтинг рекламодателя:";
+
+/* Class = "UILabel"; text = "Offeror's Phone No:"; ObjectID = "uvs-WK-EUe"; */
+"uvs-WK-EUe.text" = "Номер телефона покупателя:";
+
+/* Class = "UILabel"; text = "Your Rating:"; ObjectID = "YU8-gu-IMo"; */
+"YU8-gu-IMo.text" = "Ваш рейтинг:";
+
+/* Class = "UILabel"; text = "Offeror's Name:"; ObjectID = "cWO-fk-VS8"; */
+"cWO-fk-VS8.text" = "Имя победителя:";
+
+/* Class = "UILabel"; text = "Offeror's Rating:"; ObjectID = "knH-9G-DAt"; */
+"knH-9G-DAt.text" = "Рейтинг рекламодателя:";
+
+/* Class = "UILabel"; text = "Offeror's Phone No:"; ObjectID = "7Mu-cE-hAj"; */
+"7Mu-cE-hAj.text" = "Номер телефона покупателя:";
+
+/* Class = "UILabel"; text = "Your Rating:"; ObjectID = "9xy-aG-sWf"; */
+"9xy-aG-sWf.text" = "Ваш рейтинг:";
+
+/* Class = "UILabel"; text = "How was your recent transaction with this seller"; ObjectID = "GOV-2q-c4e"; */
+"GOV-2q-c4e.text" = "Как ваша недавняя сделка с этим продавцом";
+
+/* Class = "UILabel"; text = "Please Rate"; ObjectID = "PvP-MO-eB5"; */
+"PvP-MO-eB5.text" = "Пожалуйста, оцените";
+
+/* Class = "UILabel"; text = "Pricing"; ObjectID = "SJI-nr-sZx"; */
+"SJI-nr-sZx.text" = "ценообразование";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "m4y-Mf-xHf"; */
+"m4y-Mf-xHf.text" = "Количество";
+
+/* Class = "UILabel"; text = "Quality"; ObjectID = "v3E-mi-PGE"; */
+"v3E-mi-PGE.text" = "Качественный";
+
+/* Class = "UILabel"; text = "Shipment"; ObjectID = "LAo-tx-jF2"; */
+"LAo-tx-jF2.text" = "отгрузка";
+
+/* Class = "UILabel"; text = "All"; ObjectID = "Urh-zy-Ndf"; */
+"Urh-zy-Ndf.text" = "Все";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "0X5-lZ-EF0"; */
+"0X5-lZ-EF0.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Offeror's Phone No:"; ObjectID = "dlo-j7-52y"; */
+"dlo-j7-52y.text" = "Номер телефона покупателя:";
+
+/* Class = "UILabel"; text = "Offeror's Name:"; ObjectID = "GLa-qK-uZC"; */
+"GLa-qK-uZC.text" = "Имя победителя:";
+
+/* Class = "UILabel"; text = "Offeror's Rating:"; ObjectID = "0t0-UH-qyP"; */
+"0t0-UH-qyP.text" = "Рейтинг рекламодателя:";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "3i8-Y4-JTE"; */
+"3i8-Y4-JTE.text" = "Количество";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "i5Z-DT-EL9"; */
+"i5Z-DT-EL9.text" = "Количество";
+
+/* Class = "UILabel"; text = "Delivery Period"; ObjectID = "PPH-Gl-edi"; */
+"PPH-Gl-edi.text" = "Период доставки";
+
+/* Class = "UILabel"; text = "Delivery Period"; ObjectID = "WsA-z5-tb5"; */
+"WsA-z5-tb5.text" = "Период отгрузки";
+
+/* Class = "UILabel"; text = "Offer Type:"; ObjectID = "KuG-Se-TFF"; */
+"KuG-Se-TFF.text" = "Тип предложения:";
+
+/* Class = "UILabel"; text = "Offer Type:"; ObjectID = "hd0-QG-DXp"; */
+"hd0-QG-DXp.text" = "Тип предложения:";
+
+/* Class = "UILabel"; text = "Offer Type:"; ObjectID = "MPk-Bh-fF7"; */
+"MPk-Bh-fF7.text" = "Тип предложения:";
+
+
+/* Class = "UILabel"; text = "Offer Type:"; ObjectID = "RBd-ws-huf"; */
+"RBd-ws-huf.text" = "Тип предложения:";
+
+/* Class = "UILabel"; text = "Offer Ref. Number:"; ObjectID = "Jlt-Nj-XyT"; */
+"Jlt-Nj-XyT.text" = "Предложение Ref. Число:";
+
+/* Class = "UILabel"; text = "Product:"; ObjectID = "L1u-wT-PoA"; */
+"L1u-wT-PoA.text" = "Товар:";
+
+/* Class = "UILabel"; text = "Quality:"; ObjectID = "TGu-kR-ARV"; */
+"TGu-kR-ARV.text" = "Качественный:";
+
+/* Class = "UILabel"; text = "Crop Year:"; ObjectID = "e2f-zc-unQ"; */
+"e2f-zc-unQ.text" = "Год урожая:";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "MtB-Jz-0Ug"; */
+"MtB-Jz-0Ug.text" = "Место нахождения:";
+
+/* Class = "UILabel"; text = "Published Price:"; ObjectID = "Mxo-VV-ORl"; */
+"Mxo-VV-ORl.text" = "Опубликованная цена:";
+
+/* Class = "UILabel"; text = "Expiry Date:"; ObjectID = "7nR-CO-Iow"; */
+"7nR-CO-Iow.text" = "Срок действия:";
+
+/* Class = "UILabel"; text = "Inco Term:"; ObjectID = "SN4-LZ-2Nu"; */
+"SN4-LZ-2Nu.text" = "Inco Term:";
+
+/* Class = "UILabel"; text = "Quantity:"; ObjectID = "EiZ-Z7-bkA"; */
+"EiZ-Z7-bkA.text" = "Количество:";
+
+/* Class = "UILabel"; text = "Delivery Period:"; ObjectID = "nIw-Ba-UiK"; */
+"nIw-Ba-UiK.text" = "Период доставки:";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "gYW-FC-GeN"; */
+"gYW-FC-GeN.normalTitle" = "следующий";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5PJ-rc-78O"; */
+"5PJ-rc-78O.normalTitle" = "отменить";
+
+/* Class = "UILabel"; text = "Expiry Date:"; ObjectID = "QQu-nG-8w3"; */
+"QQu-nG-8w3.text" = "Срок действия:";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "zRi-rN-AQT"; */
+"zRi-rN-AQT.text" = "Место нахождения:";
+
+/* Class = "UILabel"; text = "Inco Term:"; ObjectID = "j0d-mV-m8U"; */
+"j0d-mV-m8U.text" = "Inco Term:";
+
+/* Class = "UILabel"; text = "Delivery Period:"; ObjectID = "fan-Yd-tRl"; */
+"fan-Yd-tRl.text" = "Период доставки:";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "VDF-Jt-OPE"; */
+"VDF-Jt-OPE.normalTitle" = "назад";
+
+/* Class = "UILabel"; text = "Offer Type:"; ObjectID = "2dx-Bw-8LO"; */
+"2dx-Bw-8LO.text" = "Тип предложения:";
+
+/* Class = "UILabel"; text = "Product:"; ObjectID = "hMQ-6u-YN1"; */
+"hMQ-6u-YN1.text" = "Товар:";
+
+/* Class = "UILabel"; text = "Quality:"; ObjectID = "Joy-0a-0X1"; */
+"Joy-0a-0X1.text" = "Качественный:";
+
+/* Class = "UILabel"; text = "Crop Year:"; ObjectID = "XzA-KD-06U"; */
+"XzA-KD-06U.text" = "Год урожая:";
+
+/* Class = "UILabel"; text = "Publish Price:"; ObjectID = "z0j-Cl-q3H"; */
+"z0j-Cl-q3H.text" = "Цена публикации:";
+
+/* Class = "UILabel"; text = "Quantity:"; ObjectID = "57i-LM-hM1"; */
+"57i-LM-hM1.text" = "Количество:";
+
+/* Class = "UIButton"; normalTitle = " Exit "; ObjectID = "p1d-UR-yT1"; */
+"p1d-UR-yT1.normalTitle" = " Выход ";
+
+/* Class = "UIButton"; normalTitle = "Duplicate this Offer"; ObjectID = "pMf-wY-Sfr"; */
+"pMf-wY-Sfr.normalTitle" = "Дублировать это предложение";
+
+/* Class = "UIButton"; normalTitle = "Create New Blank Offer"; ObjectID = "cTW-hS-xOT"; */
+"cTW-hS-xOT.normalTitle" = "Создать новое пустое предложение";
+
+/* Class = "UILabel"; text = "Packing Size:"; ObjectID = "k6s-My-aM5"; */
+"k6s-My-aM5.text" = "Размер упаковки:";
+
+/* Class = "UILabel"; text = "Payment Term:"; ObjectID = "idB-yb-nnE"; */
+"idB-yb-nnE.text" = "Условия оплаты:";
+
+/* Class = "UILabel"; text = "Packing Size:"; ObjectID = "f06-GH-StN"; */
+"f06-GH-StN.text" = "Размер упаковки:";
+
+/* Class = "UILabel"; text = "Packing Size:"; ObjectID = "nVq-No-Neb"; */
+"nVq-No-Neb.text" = "Размер упаковки:";
+
+/* Class = "UILabel"; text = "Packing Type:"; ObjectID = "1NY-8z-wKi"; */
+"1NY-8z-wKi.text" = "Тип упаковки:";
+
+/* Class = "UILabel"; text = "Packing Size:"; ObjectID = "6re-cL-iFh"; */
+"6re-cL-iFh.text" = "Размер упаковки:";
+
+/* Class = "UILabel"; text = "Packing Type:"; ObjectID = "TH6-4p-BQB"; */
+"TH6-4p-BQB.text" = "Тип упаковки:";
+
+/* Class = "UILabel"; text = "Packing Type:"; ObjectID = "wEe-32-ZaM"; */
+"wEe-32-ZaM.text" = "Тип упаковки:";
+
+/* Class = "UILabel"; text = "Payment Term:"; ObjectID = "kmx-Nj-a7W"; */
+"kmx-Nj-a7W.text" = "Условия оплаты:";
+
+/* Class = "UILabel"; text = "Packing Type:"; ObjectID = "pYP-nH-bay"; */
+"pYP-nH-bay.text" = "Тип упаковки:";
+
+/* Class = "UILabel"; text = "Payment Term:"; ObjectID = "e8v-CP-Z2T"; */
+"e8v-CP-Z2T.text" = "Условия оплаты:";
+
+/* Class = "UILabel"; text = "Payment Term:"; ObjectID = "zzJ-IW-4kn"; */
+"zzJ-IW-4kn.text" = "Условия оплаты:";

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ApiDetails" representedClassName="ApiDetails" syncable="YES" codeGenerationType="class">
+        <attribute name="createdDate" optional="YES" attributeType="Transformable"/>
+        <attribute name="requestBody" optional="YES" attributeType="Transformable"/>
+        <attribute name="requestHeader" optional="YES" attributeType="Transformable"/>
+        <attribute name="responseBody" optional="YES" attributeType="Transformable"/>
+        <attribute name="updatedDate" optional="YES" attributeType="Transformable"/>
+        <attribute name="url" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <elements>
+        <element name="ApiDetails" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>

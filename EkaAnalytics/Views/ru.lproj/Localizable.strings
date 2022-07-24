@@ -1,0 +1,277 @@
+/*
+ Localizable.strings
+ EkaAnalytics
+ 
+ Created by Nithin on 21/05/18.
+ Copyright © 2018 Eka Software Solutions. All rights reserved.
+ */
+
+/*No MyBids message*/
+//"NoBids" = "У вас пока нет ставок.";
+"No In-Progress bids." = "Нет текущих предложений.";
+"No accepted/cancelled bids." = "Нет принятых / отмененных предложений";
+"No rejected bids." = "Нет отклоненных заявок.";
+
+/*No published prices message*/
+"NoPrices" = "Сейчас нет доступных цен.";
+
+/*Expiry date prefix*/
+"Expires in" = "Истекает";
+"Expires" = "Истекает";
+
+/*Button title to send*/
+"Send" = "послать";
+
+/*Button title to Accept*/
+"Accept" = "принимать";
+
+/*Alert title*/
+"Success" = "успех";
+
+/*Alert Ok Button*/
+"Ok" = "ОК";
+
+/*Alert cancel button*/
+"Cancel" = "Отмена";
+
+/*Option buttons title*/
+"Bid log" = "Журнал заявок";
+"Reject this deal" = "Отклонить эту сделку";
+
+/*Error alert title*/
+"Error" = "ошибка";
+
+/*Bid successfuly placed alert message*/
+"Bid has been placed successfully" = "Ставка успешно размещена";
+
+/*Bid Failed alert message*/
+"Failed to place the bid. Please try again." = "Не удалось разместить ставку. Пожалуйста, попробуйте еще раз.";
+
+/*Counter price validation message*/
+"Please enter a valid non-zero value." = "Введите действительное ненулевое значение.";
+
+/*Quantity validation message*/
+"Please enter the Quantity." = "Введите количество.";
+
+/*ShipmentDate validation message*/
+"Please enter the Shipment Date." = "Укажите дату отправки.";
+
+/*Counter price validation message*/
+"Please enter the price." = "Пожалуйста, введите цену.";
+"Please enter a valid non-zero counter price." = "Введите действительную цену, отличную от нуля.";
+
+/*Alert Title*/
+"Confirmation" = "подтверждение";
+
+/*Confirmation Message*/
+"You're accepting the bid at the price" = "Вы принимаете заявку по цене";
+
+"The Deal was accepted by" = "Сделка была принята";
+"The Deal was rejected by" = "Сделка была отклонена";
+"The Deal was cancelled by" = "Сделка была отменена";
+"on" = "на";
+"at" = "в";
+
+/*Bid Update message*/
+"Your message has been sent." = "Ваше сообщение было отправлено.";
+
+/*Bid Status messages*/
+"No Bid Initiated" = "Нет инициированного предложения";
+"Pending" = "в ожидании";
+
+/*Bid log titles*/
+"Published Price" = "Опубликованная цена";
+"Accepted" = "Принято";
+"Rejected" = "Отклонено";
+"Cancelled" = "отменен";
+
+/*Reason for rejection*/
+"Please enter the reason for rejection." = "Введите причину отказа.";
+
+
+/*Hamburger menu options*/
+"Favourites" = "Избранные";
+"Apps" = "Программы";
+"About us" = "О нас";
+"Need Help?" = "Нужна помощь?";
+
+/*Error message on login*/
+"Please enter the credentials" = "Введите учетные данные";
+"Either the domain is invalid or service is unavailable. Please try again later." = "Либо домен недействителен, либо недоступен. Пожалуйста, повторите попытку позже.";
+
+/*Filters title*/
+"Filters" = "фильтры";
+"Predefined Filters" = "Предопределенные фильтры";
+"Select operator" = "Выбрать оператора";
+
+/*Slicer title*/
+"Slicer" = "ломтерезки";
+
+/*Settings*/
+"Settings" = "настройки";
+"Change Password" = "Изменить пароль";
+"Logout" = "Выйти";
+"Account" =  "Счет";
+
+/*Icon names*/
+"Share" = "Share_ru";
+"Sort" = "Sort_ru";
+"Filter" = "Filter_ru";
+"Legend" = "Legend_ru";
+"Legend_selected" = "Legend_selected_ru";
+
+/*Intro Screen Content*/
+"Discover accurate and actionable insights from your data with Eka's Intelligence Engine" = "Ознакомьтесь с точными и эффективными сведениями из ваших данных с помощью Intelligence Engine от Eka";
+"Integrate multiple systems seamlessly across business processes with Eka's Data Connectors" = "Интеграция нескольких систем в бизнес-процессах с помощью соединителей данных Eka" ;
+"Tell your story the way you want to with prebuilt and high-value apps or create your own apps" = "Расскажите свою историю так, как вы хотите, с заранее созданными и полезными приложениями или создайте свои собственные приложения";
+
+
+"Search results" = "Результаты поиска";
+"Recently visited" = "Недавно посетил";
+"Unable to render chart." = "Невозможно отобразить диаграмму.";
+"No data to display. Please check the underlying collection(s) connection details or filter criteria" = "Нет данных для отображения. Пожалуйста, проверьте сведения о базовой коллекции (-ях) или критерии фильтрации";
+"Postal Address" = "Почтовый адрес";
+"Farm Address" = "Адрес фермы";
+"Personal Details:" = "Личная информация:";
+"Addresses:" = "Адреса:";
+"Bank Details:" = "Детали банка:";
+"Select slicer value" = "Выберите значение slicer";
+"None" = "Никто";
+"No Insights available." = "Нет доступных сведений.";
+"No data to display." = "Нет данных для отображения.";
+"No results found" = "результатов не найдено";
+"Please enter all the fields" = "Введите все поля";
+"Successfully changed the password. Please login again" = "Успешно сменил пароль. Пожалуйста, войдите снова";
+"The existing password doesn't match our records." = "Существующий пароль не соответствует нашим записям.";
+"Please enter the current password first" = "Сначала введите текущий пароль";
+"The new password and confirm password doesn't match." = "Новый пароль и пароль подтверждения не совпадают.";
+"The new password doesn't conform to our password policy. Please choose a different one." = "Новый пароль не соответствует нашей политике паролей. Выберите другой.";
+"This is same as the existing password, Please choose a different one." = "Это то же самое, что и существующий пароль, выберите другой.";
+"Please check your internet connectivity." = "Проверьте подключение к Интернету.";
+"There is a technical issue. Please contact us if the issue persists." = "Существует техническая проблема. Если проблема не исчезнет, свяжитесь с нами.";
+"The token has been refreshed" = "Токен обновлен";
+"The token has been expired. please login again." = "Срок действия токена истек. Пожалуйста, войдите снова.";
+"The response is not in a valid json format." = "Ответ не в действительном формате json.";
+"Failed with status code" = "Ошибка с кодом состояния";
+"Dataview not supported on mobile currently." = "В настоящее время Dataview не поддерживается на мобильных устройствах.";
+"You won't be able to access any notification after logout" = "Вы не сможете получить доступ к уведомлению после выхода из системы";
+"No Favourites yet." = "Пока нет избранных.";
+"No Notifications." = "Нет уведомлений.";
+"Slicer Options" = "Варианты Slicer";
+"No Dataviews affected" = "Нет затронутых данных";
+"Please select a bidder." = "Выберите участника торгов.";
+"Basic Filters are not available for this measure" = "Для этой меры недоступны основные фильтры";
+"Notifications" = "Уведомления";
+
+"Less than" = "Меньше, чем";
+"Greater than or equal" = "Больше или равно";
+"Equal" = "равных";
+"Equals" = "Равно";
+"Not equal" = "Не равный";
+"Top" = "верхний";
+"Bottom" = "Дно";
+"On" = "На";
+"Not on" = "Не на";
+"On or After" = "Вкл. Или после";
+"Before" = "До";
+"Is blank" = "Не заполнено";
+"Is not blank" = "Не пуст";
+"Contains" = "Содержит";
+"Does not contain" = "Не содержит";
+"Starts with" = "Начинается с";
+"Does not start with" = "Не начинается с";
+"Is blank" = "Не заполнено";
+"Is not blank" = "Не пуст";
+"in" = "в";
+"Select" = "Выбрать";
+"Change" = "+ Изменить";
+"Recently searched" = "Недавно найденные";
+"Showing bids of " = "Показаны ставки ";
+"No Bidder Selected." = "Не выбран участник торгов.";
+"Search Bidder Name" = "Поиск имени участника торгов";
+"Incoterm: " = "Инкотермс: ";
+"Incoterm" = "Инкотермс";
+"Crop Year" = "Год урожая";
+"Published Price" = "Опубликованная цена";
+"Product" = "Товар";
+"Quality" = "Качественный";
+"Location" = "Место нахождения";
+"Messenger" = "посыльный";
+"Done" = "Готово";
+"What am I seeing?" = "Что я вижу?";
+"Learn more" = "Выучить больше";
+"No Remarks" = "Нет комментариев";
+"Search Insights" = "Поиск Insights";
+"Agent" = "агент";
+"Permission has been revoked. Please contact admin." = "Разрешение отменено. Пожалуйста, свяжитесь с администратором.";
+"Enable drilling feature"="Включить функцию сверления";
+"Disable drilling feature" = "Отключить функцию бурения";
+"Disable Cascading Filter" = "Отключить каскадный фильтр";
+"Enable Cascading Filter" = "Включить каскадный фильтр";
+"Please enter valid Shipment Date." = "Укажите действительную дату отправки.";
+"Balance"="Баланс";
+"Enter Image Name." = "Введите имя изображения.";
+"already exist." = "уже существует.";
+"Open Gallery" = "Открыть галерею";
+"Take Photo" = "Сфотографировать";
+"Warning" = "Предупреждение";
+"You don't have camera." = "У вас нет камеры.";
+"You don't have perission to access gallery." = "У вас нет разрешения на доступ к галерее.";
+"No Record Found." = "Нет записей.";
+"Something went wrong please try again after some time." = "Что-то пошло не так, попробуйте еще раз через некоторое время.";
+"Are you sure you want to delete?" = "Вы уверены, что хотите удалить?";
+"INVALID IMAGE" =  "НЕВЕРНОЕ ИЗОБРАЖЕНИЕ";
+"Invalid Image" = "Недопустимое изображение";
+"THREATS FOUND" = "ОБНАРУЖЕНЫ УГРОЗЫ";
+//"The plant appears to be healthy" = "Завод кажется здоровым";
+"NO THREATS FOUND" = "УГРОЗ НЕ НАЙДЕНО";
+"The plant is infected with" = "Завод заражен";
+"Thanks for the Feedback." = "Спасибо за ответ.";
+"Something went wrong! Please try again." =  "Что-то пошло не так! Пожалуйста, попробуйте еще раз.";
+"The image shows very less probability of any infection, for confirmation, take multiple photos from different positions." = "Изображение показывает очень меньшую вероятность любой инфекции, для подтверждения, делать несколько фотографий с разных позиций.";
+"Do you want to Remove All filter?" = "Вы хотите удалить все фильтры?";
+"Do you want to Remove All slicer?" = "Вы хотите удалить все слайсеры?";
+
+"Remaining" = "остальной";
+"disease" = "болезнь";
+"The plant is healthy" = "Растение здоровое";
+
+"Rating" = "Рейтинг";
+"Please provide your rating." = "Укажите свой рейтинг.";
+" Remarks" = " замечания";
+"Rate Now" = "Оценить сейчас";
+"Not Available" = "Недоступен";
+"Unable to submit the rating.Please try again later." = "Не удалось отправить рейтинг. Повторите попытку позже.";
+"Action Filters" = "Фильтры действий";
+"User Name" = "Имя пользователя";
+"Bid" = "предложение";
+"Offer" = "Предлагает";
+"BID" = "BID";
+"OFFER" = "ПРЕДЛАГАЕТ";
+"Modify"="изменять";
+"Delete"="удалять";
+"Do you want to delete the offer?"="Вы хотите удалить предложение?";
+"New Offer"="Новое предложение";
+"is successfully published"= "успешно опубликовано";
+"Bid has been successfully updated." = "Ставка была успешно обновлена.";
+"Failed to update the offer. Please try again." = "Не удалось обновить предложение. Пожалуйста, попробуйте еще раз.";
+"Update"="Обновить";
+"Publish"="Публиковать";
+"Latest Offeror Price"="Последняя цена предложения";
+"Latest Bidder Price"="Последняя цена претендента";
+"Bidder"="Претендент";
+"Offer has been successfully updated."="Предложение было успешно обновлено.";
+"Enter all field." = "Введите все поля.";
+"Delivery From Date must be higher than Delivery To date" = "Дата доставки должна быть выше даты доставки.";
+"Please Enter Valid Delivery period." = "Пожалуйста, введите действительный срок доставки.";
+"Payment Terms" = "Условия оплаты";
+"Packing Size" = "Размер упаковки";
+"Packing Type" = "Тип упаковки";
+"Quantity" = "Количество";
+"Eka Software Solutions Pvt. Ltd. All rights reserved." = "Eka Software Solutions Pvt. Ltd. Все права защищены.";
+"User Unauthorized." = "Пользователь не авторизован.";
+"Please enter the current password." = "Пожалуйста, введите текущий пароль.";
+"Information" = "Информация";
+"New and Confirm Password are not same." = "Новый и Подтвердить пароль — это не одно и то же.";
+"Share" = "Делиться";
+"No Insights to share." = "Нет информации, которой можно поделиться.";

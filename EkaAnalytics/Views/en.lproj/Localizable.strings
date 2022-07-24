@@ -1,0 +1,162 @@
+/* 
+  Localizable.strings
+  EkaAnalytics
+
+  Created by Nithin on 21/05/18.
+  Copyright © 2018 Eka Software Solutions. All rights reserved.
+*/
+
+/*No MyBids message*/
+//"NoBids" = "You don't have any bids yet.";
+"No In-Progress bids." = "No In-Progress bids.";
+"No accepted/cancelled bids." = "No accepted/cancelled bids.";
+"No rejected bids." = "No rejected bids.";
+
+/*No published prices message*/
+"NoPrices" = "There are no published prices currently.";
+
+/*Expiry date prefix*/
+"Expires in" = "Expires in";
+"Expires" = "Expires";
+
+/*Button title to send*/
+"Send" = "Send";
+
+/*Button title to Accept*/
+"Accept" = "Accept";
+
+/*Alert title*/
+"Success" = "Success";
+
+/*Alert Ok Button*/
+"Ok" = "Ok";
+
+/*Alert cancel button*/
+"Cancel" = "Cancel";
+
+/*Option buttons title*/
+"Bid log" = "Bid log";
+"Reject this deal" = "Reject this deal";
+
+/*Bid successfuly placed alert message*/
+"Bid has been placed successfully" = "Bid has been placed successfully";
+
+/*Bid Failed alert message*/
+"Failed to place the bid. Please try again." = "Failed to place the bid. Please try again.";
+
+/*Counter price validation message*/
+"Please enter a valid non-zero value." = "Please enter a valid non-zero value.";
+
+/*Quantity validation message*/
+"Please enter the Quantity." = "Please enter the Quantity.";
+
+/*ShipmentDate validation message*/
+"Please enter the Shipment Date." = "Please enter the Shipment Date.";
+
+/*Counter price validation message*/
+"Please enter the price." = "Please enter the price.";
+"Please enter a valid non-zero counter price." = "Please enter a valid non-zero counter price.";
+
+
+/*Alert Title*/
+"Confirmation" = "Confirmation";
+
+/*Confirmation Message*/
+"You're accepting the bid at the price" = "You're accepting the bid at the price";
+
+"The Deal was accepted by" = "The Deal was accepted by";
+"The Deal was rejected by" = "The Deal was rejected by";
+"The Deal was cancelled by" = "The Deal was cancelled by";
+"on" = "on";
+"at" = "at";
+
+/*Bid Update message*/
+"Your message has been sent." = "Your message has been sent.";
+
+/*Bid Status messages*/
+"No Bid Initiated" = "No Bid Initiated";
+"Pending" = "Pending";
+
+/*Bid log titles*/
+"Published Price" = "Published Price";
+"Accepted" = "Accepted";
+"Rejected" = "Rejected";
+"Cancelled" = "Cancelled";
+
+/*Reason for rejection*/
+"Please enter the reason for rejection." = "Please enter the reason for rejection.";
+
+"Incoterm: " = "Incoterm: ";
+"Messenger" = "Messenger";
+"Done" = "Done";
+"What am I seeing?" = "What am I seeing?";
+"Learn more" = "Learn more";
+"No Remarks" = "No Remarks";
+"Search Insights" = "Search Insights";
+"Please enter valid Shipment Date." = "Please enter valid Shipment Date.";
+"Balance"="Balance";
+"Enter Image Name." = "Enter Image Name.";
+"already exist." = "already exist.";
+"Open Gallery" = "Open Gallery";
+"Take Photo" = "Take Photo";
+"Warning" = "Warning";
+"You don't have camera." = "You don't have camera.";
+"You don't have perission to access gallery." = "You don't have perission to access gallery.";
+"No Record Found." = "No Record Found.";
+"Something went wrong please try again after some time." = "Something went wrong please try again after some time.";
+"Are you sure you want to delete?" = "Are you sure you want to delete?";
+"INVALID IMAGE" =  "INVALID IMAGE";
+"Invalid Image" = "Invalid Image";
+"THREATS FOUND" = "THREATS FOUND";
+//"The plant appears to be healthy" = "The plant appears to be healthy";
+"NO THREATS FOUND" = "NO THREATS FOUND";
+"The plant is infected with" = "The plant is infected with";
+"Thanks for the Feedback." = "Thanks for the Feedback.";
+"Something went wrong! Please try again." =  "Something went wrong! Please try again.";
+"The image shows very less probability of any infection, for confirmation, take multiple photos from different positions." = "The image shows very less probability of any infection, for confirmation, take multiple photos from different positions.";
+"Do you want to Remove All filter?" = "Do you want to Remove All filter?";
+"Do you want to Remove All slicer?" = "Do you want to Remove All slicer?";
+
+"Remaining" = "Remaining";
+"disease" = "disease";
+"The plant is healthy" = "The plant is healthy";
+
+"Rating" = "Rating";
+"Please provide your rating." = "Please provide your rating.";
+" Remarks" = " Remarks";
+"Rate Now" = "Rate Now";
+"Not Available" = "Not Available";
+"Unable to submit the rating.Please try again later." = "Unable to submit the rating.Please try again later.";
+"Action Filters" = "Action Filters";
+"User Name" = "User Name";
+"Bid" = "Bid";
+"Offer" = "Offer";
+"BID" = "BID";
+"OFFER" = "OFFER";
+"Modify"="Modify";
+"Delete"="Delete";
+"Do you want to delete the offer?"="Do you want to delete the offer?";
+"New Offer"="New Offer";
+"is successfully published"= "is successfully published";
+"Bid has been successfully updated." = "Bid has been successfully updated.";
+"Failed to update the offer. Please try again." = "Failed to update the offer. Please try again.";
+"Update"="Update";
+"Publish"="Publish";
+"Latest Offeror Price"="Latest Offeror Price";
+"Latest Bidder Price"="Latest Bidder Price";
+"Bidder"="Bidder";
+"Offer has been successfully updated."="Offer has been successfully updated.";
+"Enter all field." = "Enter all field.";
+"Delivery From Date must be higher than Delivery To date" = "Delivery From Date must be higher than Delivery To date.";
+"Please Enter Valid Delivery period." = "Please Enter Valid Delivery period.";
+"Payment Terms" = "Payment Terms";
+"Packing Size" = "Packing Size";
+"Packing Type" = "Packing Type";
+"Quantity" = "Quantity";
+"Eka Software Solutions Pvt. Ltd. All rights reserved." = "Eka Software Solutions Pvt. Ltd. All rights reserved.";
+"User Unauthorized." = "User Unauthorized.";
+"Please enter the current password." = "Please enter the current password.";
+"Information" = "Information";
+"New and Confirm Password are not same." = "New and Confirm Password are not same.";
+"Share" = "Share";
+"No Insights to share." = "No Insights to share.";
